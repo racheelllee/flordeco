@@ -1,0 +1,2077 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-06-24 17:38+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Auth/PermissionAuthenticate.php:61
+msgid "You need to be signed in to view that page."
+msgstr ""
+
+#: Auth/PermissionAuthorize.php:55
+msgid "You are not allowed to view that page."
+msgstr ""
+
+#: Controller/StaticPagesController.php:118
+msgid "The static page is successfully added"
+msgstr ""
+
+#: Controller/StaticPagesController.php:121
+msgid "Unable to add page, please try again"
+msgstr ""
+
+#: Controller/StaticPagesController.php:154
+msgid "The static page has been updated successfully"
+msgstr ""
+
+#: Controller/StaticPagesController.php:157
+msgid "Unable to save static page, please try again"
+msgstr ""
+
+#: Controller/StaticPagesController.php:164;186;213
+msgid "Invalid Static Page Id"
+msgstr ""
+
+#: Controller/StaticPagesController.php:168;190;217
+msgid "Missing Static Page Id"
+msgstr ""
+
+#: Controller/StaticPagesController.php:208
+msgid "Selected static page has been deleted successfully"
+msgstr ""
+
+#: Controller/StaticPagesController.php:210
+msgid "Selected static page can not be deleted, please try again"
+msgstr ""
+
+#: Controller/UserContactsController.php:129
+msgid "Thank you for contacting us. we will be in touch with you very soon"
+msgstr ""
+
+#: Controller/UserContactsController.php:149
+msgid "Contact Enquiry Received"
+msgstr ""
+
+#: Controller/UserContactsController.php:151
+msgid "Hi Admin, <br/><br/>A contact enquiry has been saved. Here are the details - <br/><br/>Name- {0} <br/>Email - {1} <br/>Contact No - {2} <br/>Requirement - {3} <br/><br/>Thanks"
+msgstr ""
+
+#: Controller/UserContactsController.php:278
+msgid "Invalid Contact Id"
+msgstr ""
+
+#: Controller/UserContactsController.php:282
+msgid "Missing Contact Id"
+msgstr ""
+
+#: Controller/UserEmailSignaturesController.php:121
+msgid "The email signature has been added successfully"
+msgstr ""
+
+#: Controller/UserEmailSignaturesController.php:124;161
+msgid "Unable to save email signature, please try again"
+msgstr ""
+
+#: Controller/UserEmailSignaturesController.php:158
+msgid "The email signature has been updated successfully"
+msgstr ""
+
+#: Controller/UserEmailSignaturesController.php:168;196
+msgid "Invalid email signature id"
+msgstr ""
+
+#: Controller/UserEmailSignaturesController.php:172;200
+msgid "Missing email signature id"
+msgstr ""
+
+#: Controller/UserEmailSignaturesController.php:191
+msgid "Selected email signature has been deleted successfully"
+msgstr ""
+
+#: Controller/UserEmailSignaturesController.php:193
+msgid "Unable to delete selected email signature, please try again"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:121
+msgid "The email template has been added successfully"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:124
+msgid "Unable to add email template, please try again"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:158
+msgid "The email template has been updated successfully"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:161
+msgid "Unable to update email template, please try again"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:168;196
+msgid "Invalid email template id"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:172;200
+msgid "Missing email template id"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:191
+msgid "Selected email template has been deleted successfully"
+msgstr ""
+
+#: Controller/UserEmailTemplatesController.php:193
+msgid "Unable to delete selected email template, please try again"
+msgstr ""
+
+#: Controller/UserEmailsController.php:237
+msgid "No users found in selected group"
+msgstr ""
+
+#: Controller/UserEmailsController.php:349
+#: Controller/UsersController.php:405;434;463;536;562;1326;1330;1363
+msgid "Invalid User Id"
+msgstr ""
+
+#: Controller/UserEmailsController.php:353
+#: Controller/UsersController.php:408;437;466;495;540;565
+msgid "Missing User Id"
+msgstr ""
+
+#: Controller/UserEmailsController.php:453
+msgid "Invalid User Email Id"
+msgstr ""
+
+#: Controller/UserEmailsController.php:457
+msgid "Missing User Email Id"
+msgstr ""
+
+#: Controller/UserGroupsController.php:118
+msgid "The group has been added successfully"
+msgstr ""
+
+#: Controller/UserGroupsController.php:121
+msgid "Unable to add group, please try again"
+msgstr ""
+
+#: Controller/UserGroupsController.php:155
+msgid "The group has been updated successfully"
+msgstr ""
+
+#: Controller/UserGroupsController.php:158
+msgid "Unable to update group, please try again."
+msgstr ""
+
+#: Controller/UserGroupsController.php:166
+msgid "Invalid group id"
+msgstr ""
+
+#: Controller/UserGroupsController.php:170
+msgid "Missing group id"
+msgstr ""
+
+#: Controller/UserGroupsController.php:189
+msgid "Sorry some users are associated with this group, You cannot delete this group"
+msgstr ""
+
+#: Controller/UserGroupsController.php:193
+msgid "Selected group has been deleted successfully"
+msgstr ""
+
+#: Controller/UserGroupsController.php:195
+msgid "Selected group could not be deleted, please try again"
+msgstr ""
+
+#: Controller/UserGroupsController.php:198
+msgid "Sorry sub group(s) exist for this group, You cannot delete this group"
+msgstr ""
+
+#: Controller/UserGroupsController.php:203
+msgid "Invalid User Group Id"
+msgstr ""
+
+#: Controller/UserGroupsController.php:206
+msgid "Missing User Group Id"
+msgstr ""
+
+#: Controller/UserSettingsController.php:122
+msgid "Selected setting has been updated successfully"
+msgstr ""
+
+#: Controller/UserSettingsController.php:125
+msgid "Unable to update setting, please try again"
+msgstr ""
+
+#: Controller/UserSettingsController.php:133
+msgid "Invalid setting id"
+msgstr ""
+
+#: Controller/UserSettingsController.php:137
+msgid "Missing setting id"
+msgstr ""
+
+#: Controller/UserSettingsController.php:173
+msgid " has been modified successfully"
+msgstr ""
+
+#: Controller/UserSettingsController.php:194
+msgid " has been copied to "
+msgstr ""
+
+#: Controller/UserSettingsController.php:196
+msgid " file could not be copied"
+msgstr ""
+
+#: Controller/UserSettingsController.php:199;225;250
+msgid " file does not exist"
+msgstr ""
+
+#: Controller/UserSettingsController.php:202;228;253
+msgid "Missing Filename"
+msgstr ""
+
+#: Controller/UserSettingsController.php:220
+msgid " has been deleted successfully"
+msgstr ""
+
+#: Controller/UserSettingsController.php:222
+msgid " file could not be deleted"
+msgstr ""
+
+#: Controller/UserSettingsController.php:248
+msgid " has been emptied"
+msgstr ""
+
+#: Controller/UsermgmtAppController.php:52
+msgid "The request has been black-holed"
+msgstr ""
+
+#: Controller/UsersController.php:259
+msgid "The user has been added successfully"
+msgstr ""
+
+#: Controller/UsersController.php:262;329
+msgid "Unable to save user, please try again"
+msgstr ""
+
+#: Controller/UsersController.php:326
+msgid "The user has been updated successfully"
+msgstr ""
+
+#: Controller/UsersController.php:342;370
+msgid "Invalid user id"
+msgstr ""
+
+#: Controller/UsersController.php:346;374
+msgid "Missing user id"
+msgstr ""
+
+#: Controller/UsersController.php:399
+msgid "Selected user is deleted successfully"
+msgstr ""
+
+#: Controller/UsersController.php:401
+msgid "Unable to delete user, please try again"
+msgstr ""
+
+#: Controller/UsersController.php:431
+msgid "Selected user is activated successfully"
+msgstr ""
+
+#: Controller/UsersController.php:460
+msgid "Selected user is de-activated successfully"
+msgstr ""
+
+#: Controller/UsersController.php:487
+msgid "Email of selected user is verified successfully"
+msgstr ""
+
+#: Controller/UsersController.php:491
+msgid "Invaid User Id"
+msgstr ""
+
+#: Controller/UsersController.php:529
+msgid "Password for {0} changed successfully"
+msgstr ""
+
+#: Controller/UsersController.php:559
+msgid "User is successfully signed out"
+msgstr ""
+
+#: Controller/UsersController.php:625
+msgid "Please upload CSV file only"
+msgstr ""
+
+#: Controller/UsersController.php:628
+msgid "Please upload CSV file"
+msgstr ""
+
+#: Controller/UsersController.php:706
+msgid "All users information have been saved"
+msgstr ""
+
+#: Controller/UsersController.php:710
+msgid "Please select at least one user to add"
+msgstr ""
+
+#: Controller/UsersController.php:760
+msgid "Invalid or empty data in CSV file, please try again"
+msgstr ""
+
+#: Controller/UsersController.php:769
+msgid "CSV file was not uploaded or does not exist, please try again"
+msgstr ""
+
+#: Controller/UsersController.php:839
+msgid "Your email has not been confirmed please verify your email or contact to admin"
+msgstr ""
+
+#: Controller/UsersController.php:842;945
+msgid "Sorry your account is not active, please contact to admin"
+msgstr ""
+
+#: Controller/UsersController.php:846
+msgid "Incorrect Email/Username or Password"
+msgstr ""
+
+#: Controller/UsersController.php:925;1236
+msgid "Sorry new registration is currently disabled, please try again later"
+msgstr ""
+
+#: Controller/UsersController.php:1124
+msgid "You are successfully signed out"
+msgstr ""
+
+#: Controller/UsersController.php:1225
+msgid "We have sent an email to you, please confirm your registration"
+msgstr ""
+
+#: Controller/UsersController.php:1229
+msgid "Unable to register user, please try again"
+msgstr ""
+
+#: Controller/UsersController.php:1254
+msgid "Profile details not found"
+msgstr ""
+
+#: Controller/UsersController.php:1314
+msgid "Your profile has been successfully updated"
+msgstr ""
+
+#: Controller/UsersController.php:1357
+msgid "Password changed successfully"
+msgstr ""
+
+#: Controller/UsersController.php:1386
+msgid "Your account is successfully deleted"
+msgstr ""
+
+#: Controller/UsersController.php:1390
+msgid "You are not allowed to delete account"
+msgstr ""
+
+#: Controller/UsersController.php:1416
+msgid "We have sent an email to you, please click on the link in your email to reset your password"
+msgstr ""
+
+#: Controller/UsersController.php:1418
+msgid "Your registration has not been confirmed yet please verify your email address before reset password"
+msgstr ""
+
+#: Controller/UsersController.php:1422;1491
+msgid "Incorrect Email/Username"
+msgstr ""
+
+#: Controller/UsersController.php:1451
+msgid "Your password has been reset successfully"
+msgstr ""
+
+#: Controller/UsersController.php:1454
+msgid "Something went wrong, please send password reset link again"
+msgstr ""
+
+#: Controller/UsersController.php:1457;1462
+msgid "Something went wrong, please click again on the link in email"
+msgstr ""
+
+#: Controller/UsersController.php:1485
+msgid "We have sent an email to you, please confirm your email address"
+msgstr ""
+
+#: Controller/UsersController.php:1487
+msgid "Your email is already verified"
+msgstr ""
+
+#: Controller/UsersController.php:1516
+msgid "Thank you, your email has been verified successfully"
+msgstr ""
+
+#: Controller/UsersController.php:1519
+msgid "Thank you, your email is already verified"
+msgstr ""
+
+#: Controller/UsersController.php:1522;1525
+msgid "Sorry something went wrong, please click on the link again"
+msgstr ""
+
+#: Controller/UsersController.php:1570
+msgid "Cache has been deleted successfully"
+msgstr ""
+
+#: Controller/UsersController.php:1573
+msgid "Cache was not deleted, please delete it manually."
+msgstr ""
+
+#: Controller/Component/SearchComponent.php:71
+msgid "Search model not found: {0}"
+msgstr ""
+
+#: Controller/Component/SearchComponent.php:164
+msgid "Selector method {0} not found in model-table {1} for field {2}! and make sure you passed model-table name (if model-table belongs to any plugin then pass plugin-name-model-table) in search fields variable of respective controller"
+msgstr ""
+
+#: Controller/Component/UserAuthComponent.php:78
+msgid "Cakephp Auth component not loaded, please load in AppController."
+msgstr ""
+
+#: Controller/Component/UserAuthComponent.php:168
+msgid "Your account is currently logged in on another computer."
+msgstr ""
+
+#: Model/Table/StaticPagesTable.php:36
+msgid "Please enter page name"
+msgstr ""
+
+#: Model/Table/StaticPagesTable.php:37
+msgid "Please enter page url"
+msgstr ""
+
+#: Model/Table/StaticPagesTable.php:42
+msgid "This url name already exist"
+msgstr ""
+
+#: Model/Table/StaticPagesTable.php:45
+msgid "Please enter page content"
+msgstr ""
+
+#: Model/Table/UserContactsTable.php:36
+msgid "Please enter your name"
+msgstr ""
+
+#: Model/Table/UserContactsTable.php:37
+msgid "Please enter your email"
+msgstr ""
+
+#: Model/Table/UserContactsTable.php:45
+msgid "Please enter requirement"
+msgstr ""
+
+#: Model/Table/UserContactsTable.php:46
+#: Model/Table/UsersTable.php:50;69;501;534
+msgid "Please enter captcha words"
+msgstr ""
+
+#: Model/Table/UserContactsTable.php:51
+#: Model/Table/UsersTable.php:55;159;506;539
+msgid "Please enter correct words"
+msgstr ""
+
+#: Model/Table/UserEmailSignaturesTable.php:36
+msgid "Please enter signature name"
+msgstr ""
+
+#: Model/Table/UserEmailSignaturesTable.php:48
+msgid "No Signature"
+msgstr ""
+
+#: Model/Table/UserEmailTemplatesTable.php:36
+msgid "Please enter template name"
+msgstr ""
+
+#: Model/Table/UserEmailTemplatesTable.php:48
+msgid "No Template"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:38
+msgid "Please enter to email"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:39
+msgid "Please enter from name"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:40
+msgid "Please enter from email"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:41
+msgid "Please enter email subject"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:42
+msgid "Please enter email message"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:43
+msgid "Please select user(s)"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:44
+msgid "Please select group(s)"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:45
+msgid "Please enter email(s)"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:49;56
+msgid "Please enter valid email"
+msgstr ""
+
+#: Model/Table/UserEmailsTable.php:64;73
+msgid "Please enter valid email(s)"
+msgstr ""
+
+#: Model/Table/UserGroupsTable.php:39
+msgid "Please enter user group name"
+msgstr ""
+
+#: Model/Table/UserGroupsTable.php:44;50
+msgid "Please enter a valid name"
+msgstr ""
+
+#: Model/Table/UserGroupsTable.php:56
+msgid "This name already exist"
+msgstr ""
+
+#: Model/Table/UserGroupsTable.php:220;249;290
+msgid "Select"
+msgstr ""
+
+#: Model/Table/UserGroupsTable.php:316
+msgid "No Group"
+msgstr ""
+
+#: Model/Table/UserSettingsTable.php:36
+msgid "Please select category"
+msgstr ""
+
+#: Model/Table/UserSettingsTable.php:73
+msgid "Select Category"
+msgstr ""
+
+#: Model/Table/UsersTable.php:48;500;533
+msgid "Please enter email or username"
+msgstr ""
+
+#: Model/Table/UsersTable.php:49;67;68;171;172;452;453;480;481;513;514;551
+msgid "Please enter password"
+msgstr ""
+
+#: Model/Table/UsersTable.php:62;166;262;356;546
+msgid "Please select group"
+msgstr ""
+
+#: Model/Table/UsersTable.php:63;167;263;357;547
+msgid "Please enter username"
+msgstr ""
+
+#: Model/Table/UsersTable.php:64;168;264;358;548
+msgid "Please enter first name"
+msgstr ""
+
+#: Model/Table/UsersTable.php:66;170;266;360;550
+msgid "Please enter email"
+msgstr ""
+
+#: Model/Table/UsersTable.php:74;80;177;183;271;277;366;372;556;562
+msgid "Please enter a valid username"
+msgstr ""
+
+#: Model/Table/UsersTable.php:86;189;283;378;568
+msgid "This username already exist"
+msgstr ""
+
+#: Model/Table/UsersTable.php:91;194;288;383;579
+msgid "Username must be greater than 3 characters"
+msgstr ""
+
+#: Model/Table/UsersTable.php:97;200;294;389;585
+msgid "This Username is not available"
+msgstr ""
+
+#: Model/Table/UsersTable.php:105;111;208;214;302;308;397;403;593;599
+msgid "Please enter a valid first name"
+msgstr ""
+
+#: Model/Table/UsersTable.php:119;125;222;228;316;322;411;417;607;613
+msgid "Please enter a valid last name"
+msgstr ""
+
+#: Model/Table/UsersTable.php:138;241;335;430;626
+msgid "This email already exist"
+msgstr ""
+
+#: Model/Table/UsersTable.php:144;247;465;485;518;638
+msgid "Password must be greater than 5 characters"
+msgstr ""
+
+#: Model/Table/UsersTable.php:152;255;473;493;526
+msgid "Both password must match"
+msgstr ""
+
+#: Model/Table/UsersTable.php:342;437
+msgid "Please upload a valid image"
+msgstr ""
+
+#: Model/Table/UsersTable.php:349;444
+msgid "Please select valid date"
+msgstr ""
+
+#: Model/Table/UsersTable.php:361
+msgid "Please select gender"
+msgstr ""
+
+#: Model/Table/UsersTable.php:451
+msgid "Please enter old password"
+msgstr ""
+
+#: Model/Table/UsersTable.php:458
+msgid "Please enter correct old password"
+msgstr ""
+
+#: Model/Table/UsersTable.php:574;631
+msgid "Duplicate in this list"
+msgstr ""
+
+#: Model/Table/UsersTable.php:931
+msgid "Select Gender"
+msgstr ""
+
+#: Model/Table/UsersTable.php:933
+msgid "Male"
+msgstr ""
+
+#: Model/Table/UsersTable.php:934
+msgid "Female"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1000
+msgid "Registration is Complete"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1001
+msgid "Welcome {0},<br/><br/>Thank you for your registration on {1}.<br/><br/>Thanks,<br/>{2}"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1023
+msgid "Contact Email Confirmation"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1026
+msgid "Hey {0}, <br/><br/>You recently entered a contact email address. To confirm your contact email, follow the link below: <br/><br/>{1}<br/><br/>If clicking on the link doesn't work, try copying and pasting it into your browser.<br/><br/>Thanks,<br/>{2}"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1048
+msgid "Request to Reset Your Password"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1051
+msgid "Welcome {0},<br/><br/>You have requested to have your password reset on {1}. Please click the link below to reset your password now: <br/><br/>{2}<br/><br/>If clicking on the link doesn't work, try copying and pasting it into your browser.<br/><br/>Thanks,<br/>{3}"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1074
+msgid "Change Password Confirmation"
+msgstr ""
+
+#: Model/Table/UsersTable.php:1076
+msgid "Hey {0},<br/><br/>You recently changed your password on {1}.<br/><br/>As a security precaution, this notification has been sent to your email addresse associated with your account.<br/><br/>Thanks,<br/>{2}"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:30
+#: Template/Element/all_email_signatures.ctp:30
+#: Template/Element/all_email_templates.ctp:30
+#: Template/Element/all_emails.ctp:30
+#: Template/Element/all_settings.ctp:30
+#: Template/Element/all_static_pages.ctp:30
+#: Template/Element/all_user_groups.ctp:30
+#: Template/Element/all_users.ctp:31
+#: Template/Element/online_users.ctp:30
+#: Template/UserEmails/send_confirm.ctp:113
+#: Template/UserSettings/cakelog.ctp:34
+#: Template/Users/view_user_permissions.ctp:39
+msgid "#"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:31
+msgid "User ID"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:32
+#: Template/Element/all_user_groups.ctp:32
+#: Template/Element/all_users.ctp:33
+#: Template/Element/contact_us.ctp:27
+#: Template/Element/online_users.ctp:31
+#: Template/UserEmails/send_confirm.ctp:115
+#: Template/UserEmails/view.ctp:84
+msgid "Name"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:33
+#: Template/Element/all_users.ctp:35
+#: Template/Element/contact_us.ctp:28
+#: Template/Element/dashboard.ctp:94
+#: Template/Element/online_users.ctp:32
+#: Template/UserEmails/send_confirm.ctp:116
+#: Template/UserEmails/view.ctp:85
+#: Template/Users/add_multiple_users.ctp:74
+#: Template/Users/add_user.ctp:68
+#: Template/Users/edit_profile.ctp:56
+#: Template/Users/edit_user.ctp:69
+#: Template/Users/login.ctp:39
+#: Template/Users/myprofile.ctp:54
+#: Template/Users/register.ctp:65
+#: Template/Users/view_user.ctp:59
+msgid "Email"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:34
+msgid "Contact Number"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:35
+#: Template/Element/contact_us.ctp:30
+msgid "Requirement"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:36
+msgid "Reply Message"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:37
+msgid "Date"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:38;63
+#: Template/Element/all_email_signatures.ctp:34;51
+#: Template/Element/all_email_templates.ctp:35;53
+#: Template/Element/all_emails.ctp:39;81
+#: Template/Element/all_settings.ctp:34;61
+#: Template/Element/all_static_pages.ctp:36;57
+#: Template/Element/all_user_groups.ctp:37;67
+#: Template/Element/all_users.ctp:40;74
+#: Template/Element/online_users.ctp:37;58
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:165
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:165
+#: Template/UserSettings/cakelog.ctp:38
+#: Template/Users/view_user_permissions.ctp:42
+msgid "Action"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:65
+#: Template/UserContacts/send_reply_confirm.ctp:72
+msgid "Send Reply"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:72
+#: Template/Element/all_email_signatures.ctp:62
+#: Template/Element/all_email_templates.ctp:64
+#: Template/Element/all_emails.ctp:90
+#: Template/Element/all_settings.ctp:70
+#: Template/Element/all_static_pages.ctp:70
+#: Template/Element/all_user_groups.ctp:79
+#: Template/Element/all_users.ctp:98
+#: Template/Element/online_users.ctp:69
+#: Template/UserEmails/view.ctp:106
+#: Template/Users/view_user_permissions.ctp:60
+msgid "No Records Available"
+msgstr ""
+
+#: Template/Element/all_contacts.ctp:77
+msgid "Number of Enquiries"
+msgstr ""
+
+#: Template/Element/all_email_signatures.ctp:31
+#: Template/UserEmailSignatures/add.ctp:37
+#: Template/UserEmailSignatures/edit.ctp:38
+msgid "Signature Name"
+msgstr ""
+
+#: Template/Element/all_email_signatures.ctp:32
+msgid "Signature"
+msgstr ""
+
+#: Template/Element/all_email_signatures.ctp:33
+#: Template/Element/all_email_templates.ctp:34
+#: Template/Element/all_static_pages.ctp:35
+#: Template/Element/all_user_groups.ctp:36
+#: Template/Element/all_users.ctp:39
+#: Template/StaticPages/view.ctp:61
+msgid "Created"
+msgstr ""
+
+#: Template/Element/all_email_signatures.ctp:53
+#: Template/UserEmailSignatures/edit.ctp:27
+msgid "Edit Signature"
+msgstr ""
+
+#: Template/Element/all_email_signatures.ctp:55
+msgid "Delete Signature"
+msgstr ""
+
+#: Template/Element/all_email_signatures.ctp:55
+msgid "Are you sure you want to delete this signature?"
+msgstr ""
+
+#: Template/Element/all_email_signatures.ctp:67
+msgid "Number of Signatures"
+msgstr ""
+
+#: Template/Element/all_email_templates.ctp:31
+#: Template/UserEmailTemplates/add.ctp:37
+#: Template/UserEmailTemplates/edit.ctp:38
+msgid "Template Name"
+msgstr ""
+
+#: Template/Element/all_email_templates.ctp:32
+msgid "Header"
+msgstr ""
+
+#: Template/Element/all_email_templates.ctp:33
+msgid "Footer"
+msgstr ""
+
+#: Template/Element/all_email_templates.ctp:55
+#: Template/UserEmailTemplates/edit.ctp:27
+msgid "Edit Template"
+msgstr ""
+
+#: Template/Element/all_email_templates.ctp:57
+msgid "Delete Template"
+msgstr ""
+
+#: Template/Element/all_email_templates.ctp:57
+msgid "Are you sure you want to delete this template?"
+msgstr ""
+
+#: Template/Element/all_email_templates.ctp:69
+msgid "Number of Email Templates"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:31
+#: Template/UserEmails/send.ctp:89
+msgid "Type"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:32
+#: Template/Element/all_users.ctp:36
+msgid "Groups(s)"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:33
+#: Template/UserContacts/send_reply.ctp:51
+#: Template/UserContacts/send_reply_confirm.ctp:54
+#: Template/UserEmails/send.ctp:121
+#: Template/UserEmails/send_confirm.ctp:93
+#: Template/UserEmails/send_to_user.ctp:51
+#: Template/UserEmails/send_to_user_confirm.ctp:54
+#: Template/UserEmails/view.ctp:53
+msgid "From Name"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:34
+#: Template/UserContacts/send_reply.ctp:57
+#: Template/UserContacts/send_reply_confirm.ctp:58
+#: Template/UserEmails/send.ctp:127
+#: Template/UserEmails/send_confirm.ctp:97
+#: Template/UserEmails/send_to_user.ctp:57
+#: Template/UserEmails/send_to_user_confirm.ctp:58
+#: Template/UserEmails/view.ctp:54
+msgid "From Email"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:35
+#: Template/UserContacts/send_reply.ctp:75
+#: Template/UserEmails/send.ctp:133
+#: Template/UserEmails/send_to_user.ctp:63
+msgid "Subject"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:36
+#: Template/UserEmails/view.ctp:57
+msgid "Sent By"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:37
+#: Template/UserEmails/view.ctp:59;86
+msgid "Sent?"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:38
+#: Template/UserEmails/view.ctp:68
+msgid "Date Sent"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:53
+#: Template/UserEmails/send_confirm.ctp:68
+#: Template/UserEmails/view.ctp:41
+msgid "Selected Users"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:55
+#: Template/UserEmails/send_confirm.ctp:70
+#: Template/UserEmails/view.ctp:43
+msgid "Group Users"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:57
+#: Template/UserEmails/send_confirm.ctp:72
+#: Template/UserEmails/view.ctp:45
+msgid "Manual Emails"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:64
+msgid "N/A"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:73
+#: Template/Element/all_settings.ctp:53
+#: Template/Element/all_user_groups.ctp:59
+#: Template/Element/all_users.ctp:59
+#: Template/UserEmails/view.ctp:62;98
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:76;193
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:76;194;200
+#: Template/Users/view_user.ctp:84
+msgid "Yes"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:75
+#: Template/Element/all_settings.ctp:55
+#: Template/Element/all_user_groups.ctp:61
+#: Template/Element/all_users.ctp:61
+#: Template/UserEmails/view.ctp:64;100
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:76;195
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:76;196;202
+#: Template/Users/view_user.ctp:84
+msgid "No"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:83
+msgid "View Full Email & Recipients"
+msgstr ""
+
+#: Template/Element/all_emails.ctp:95
+msgid "Number of Emails"
+msgstr ""
+
+#: Template/Element/all_settings.ctp:31
+msgid "Category"
+msgstr ""
+
+#: Template/Element/all_settings.ctp:32
+msgid "Setting Name"
+msgstr ""
+
+#: Template/Element/all_settings.ctp:33
+msgid "Setting Value"
+msgstr ""
+
+#: Template/Element/all_settings.ctp:63
+#: Template/UserSettings/edit_setting.ctp:27
+msgid "Edit Setting"
+msgstr ""
+
+#: Template/Element/all_settings.ctp:75
+msgid "Number of Settings"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:31
+#: Template/StaticPages/add.ctp:37
+#: Template/StaticPages/edit.ctp:38
+#: Template/StaticPages/view.ctp:41
+msgid "Page Name"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:32
+#: Template/StaticPages/add.ctp:44
+#: Template/StaticPages/edit.ctp:45
+#: Template/StaticPages/view.ctp:45
+msgid "Url Name"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:33
+#: Template/StaticPages/add.ctp:51
+#: Template/StaticPages/edit.ctp:52
+#: Template/StaticPages/view.ctp:53
+msgid "Page Title"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:34
+#: Template/StaticPages/view.ctp:49
+msgid "Page Link"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:59
+msgid "View Page"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:61
+msgid "Edit Page"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:63
+msgid "Delete Page"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:63
+msgid "Are you sure you want to delete this page?"
+msgstr ""
+
+#: Template/Element/all_static_pages.ctp:75
+msgid "Number of Pages"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:31
+msgid "Group Id"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:33
+#: Template/UserGroups/add.ctp:44
+#: Template/UserGroups/edit.ctp:45
+msgid "Parent Group"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:34
+#: Template/UserGroups/add.ctp:50
+#: Template/UserGroups/edit.ctp:51
+msgid "Description"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:35
+#: Template/UserGroups/add.ctp:56
+#: Template/UserGroups/edit.ctp:57
+msgid "Allow Registration"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:69
+#: Template/UserGroups/edit.ctp:27
+msgid "Edit Group"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:71
+msgid "Delete Group"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:71
+msgid "Are you sure you want to delete this group? Delete it your own risk"
+msgstr ""
+
+#: Template/Element/all_user_groups.ctp:84
+msgid "Number of Groups"
+msgstr ""
+
+#: Template/Element/all_users.ctp:32
+msgid "User Id"
+msgstr ""
+
+#: Template/Element/all_users.ctp:34
+#: Template/Users/add_multiple_users.ctp:73
+#: Template/Users/add_user.ctp:50
+#: Template/Users/edit_profile.ctp:38
+#: Template/Users/edit_user.ctp:51
+#: Template/Users/myprofile.ctp:50
+#: Template/Users/register.ctp:47
+#: Template/Users/view_user.ctp:55
+msgid "Username"
+msgstr ""
+
+#: Template/Element/all_users.ctp:37
+#: Template/Users/view_user.ctp:83
+msgid "Email Verified"
+msgstr ""
+
+#: Template/Element/all_users.ctp:38
+#: Template/Users/myprofile.ctp:74
+#: Template/Users/view_user.ctp:79
+msgid "Status"
+msgstr ""
+
+#: Template/Element/all_users.ctp:66
+#: Template/Users/myprofile.ctp:75
+#: Template/Users/view_user.ctp:80
+msgid "Active"
+msgstr ""
+
+#: Template/Element/all_users.ctp:68
+#: Template/Users/myprofile.ctp:75
+#: Template/Users/view_user.ctp:80
+msgid "Inactive"
+msgstr ""
+
+#: Template/Element/all_users.ctp:76
+msgid "View User"
+msgstr ""
+
+#: Template/Element/all_users.ctp:77
+#: Template/Users/edit_user.ctp:34;105
+msgid "Edit User"
+msgstr ""
+
+#: Template/Element/all_users.ctp:78
+#: Template/Users/change_password.ctp:27;53
+#: Template/Users/change_user_password.ctp:50
+#: Template/Users/dashboard.ctp:47
+msgid "Change Password"
+msgstr ""
+
+#: Template/Element/all_users.ctp:81
+#: Template/Element/online_users.ctp:61
+msgid "Inactivate"
+msgstr ""
+
+#: Template/Element/all_users.ctp:81
+msgid "Are you sure you want to inactivate this user?"
+msgstr ""
+
+#: Template/Element/all_users.ctp:83
+msgid "Activate"
+msgstr ""
+
+#: Template/Element/all_users.ctp:83
+msgid "Are you sure you want to activate this user?"
+msgstr ""
+
+#: Template/Element/all_users.ctp:86
+msgid "Verify Email"
+msgstr ""
+
+#: Template/Element/all_users.ctp:86
+msgid "Are you sure you want to verify email of this user?"
+msgstr ""
+
+#: Template/Element/all_users.ctp:88
+msgid "Delete User"
+msgstr ""
+
+#: Template/Element/all_users.ctp:88
+msgid "Are you sure you want to delete this user?"
+msgstr ""
+
+#: Template/Element/all_users.ctp:90
+msgid "View Permissions"
+msgstr ""
+
+#: Template/Element/all_users.ctp:91
+#: Template/UserEmails/send.ctp:67
+#: Template/UserEmails/send_confirm.ctp:149
+#: Template/UserEmails/send_to_user_confirm.ctp:72
+#: Template/Users/dashboard.ctp:87
+msgid "Send Mail"
+msgstr ""
+
+#: Template/Element/contact_us.ctp:29
+msgid "Contact No"
+msgstr ""
+
+#: Template/Element/contact_us.ctp:44
+msgid "Submit"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:34
+#: Template/Users/access_denied.ctp:33
+#: Template/Users/dashboard.ctp:27
+msgid "Dashboard"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:46
+msgid "Users"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:49
+#: Template/Users/add_user.ctp:34;86
+#: Template/Users/dashboard.ctp:57
+#: Template/Users/index.ctp:30
+msgid "Add User"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:52
+#: Template/Users/add_multiple_users.ctp:56
+#: Template/Users/dashboard.ctp:60
+#: Template/Users/upload_csv.ctp:32
+msgid "Add Multiple Users"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:55
+#: Template/Users/dashboard.ctp:63
+#: Template/Users/index.ctp:27
+msgid "All Users"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:58
+#: Template/Users/dashboard.ctp:66
+#: Template/Users/online.ctp:27
+msgid "Online Users"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:63
+msgid "Groups"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:66
+#: Template/UserGroups/add.ctp:27
+#: Template/UserGroups/index.ctp:30
+#: Template/Users/dashboard.ctp:69
+msgid "Add Group"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:69
+#: Template/UserGroups/index.ctp:27
+#: Template/Users/dashboard.ctp:72
+msgid "All Groups"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:74
+msgid "Admin"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:77
+#: Template/Users/dashboard.ctp:78
+msgid "Group Permissions"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:80
+#: Template/Users/dashboard.ctp:81
+msgid "Subgroup Permissions"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:83
+#: Template/UserSettings/index.ctp:27
+#: Template/Users/dashboard.ctp:114
+msgid "All Settings"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:86
+#: Template/UserSettings/cakelog.ctp:27
+#: Template/Users/dashboard.ctp:117
+msgid "Cake Logs"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:89
+#: Template/Users/dashboard.ctp:120
+msgid "Delete Cache"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:97
+#: Template/UserEmails/index.ctp:30
+#: Template/Users/email_verification.ctp:56
+#: Template/Users/forgot_password.ctp:53
+msgid "Send Email"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:100
+msgid "View Sent Emails"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:103
+#: Template/Users/dashboard.ctp:93
+msgid "Contact Enquiries"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:106
+#: Template/Users/dashboard.ctp:96
+msgid "Email Templates"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:109
+#: Template/Users/dashboard.ctp:99
+msgid "Email Signatures"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:114
+msgid "Pages"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:117
+#: Template/StaticPages/add.ctp:64
+#: Template/StaticPages/index.ctp:30
+#: Template/Users/dashboard.ctp:105
+msgid "Add Page"
+msgstr ""
+
+#: Template/Element/dashboard.ctp:120
+#: Template/Users/dashboard.ctp:108
+msgid "All Pages"
+msgstr ""
+
+#: Template/Element/online_users.ctp:33
+msgid "Last URL"
+msgstr ""
+
+#: Template/Element/online_users.ctp:34
+msgid "Browser"
+msgstr ""
+
+#: Template/Element/online_users.ctp:35
+#: Template/Users/view_user.ctp:87
+msgid "Ip Address"
+msgstr ""
+
+#: Template/Element/online_users.ctp:36
+msgid "Last Action"
+msgstr ""
+
+#: Template/Element/online_users.ctp:60
+msgid "Sign Out"
+msgstr ""
+
+#: Template/Element/online_users.ctp:60
+msgid "Are you sure you want to sign out this user?"
+msgstr ""
+
+#: Template/Element/online_users.ctp:61
+msgid "This user will be signed out and will not be able to login again"
+msgstr ""
+
+#: Template/Element/online_users.ctp:74
+msgid "Number of Online Users"
+msgstr ""
+
+#: Template/Element/pagination.ctp:26
+msgid "Total Records"
+msgstr ""
+
+#: Template/Element/pagination.ctp:31;35
+msgid "First"
+msgstr ""
+
+#: Template/Element/pagination.ctp:38;40
+msgid "Previous"
+msgstr ""
+
+#: Template/Element/pagination.ctp:44;46
+#: Template/UserContacts/send_reply.ctp:87
+#: Template/UserEmails/send.ctp:157
+#: Template/UserEmails/send_to_user.ctp:87
+msgid "Next"
+msgstr ""
+
+#: Template/Element/pagination.ctp:48;52
+msgid "Last"
+msgstr ""
+
+#: Template/Element/pagination.ctp:54
+msgid "Page"
+msgstr ""
+
+#: Template/Element/pagination.ctp:54
+msgid "of"
+msgstr ""
+
+#: Template/Element/provider.ctp:26
+msgid "Sign in using your account with"
+msgstr ""
+
+#: Template/Element/provider.ctp:29
+msgid "Facebook Connect"
+msgstr ""
+
+#: Template/Element/provider.ctp:31
+msgid "Twitter Connect"
+msgstr ""
+
+#: Template/Element/provider.ctp:33
+msgid "Gmail Connect"
+msgstr ""
+
+#: Template/Element/provider.ctp:35
+msgid "Yahoo Connect"
+msgstr ""
+
+#: Template/Element/provider.ctp:37
+msgid "Linkedin Connect"
+msgstr ""
+
+#: Template/Element/provider.ctp:39
+msgid "Foursquare Connect"
+msgstr ""
+
+#: Template/Element/search_form.ctp:159
+msgid "Search"
+msgstr ""
+
+#: Template/Element/search_form.ctp:161
+msgid "Clear"
+msgstr ""
+
+#: Template/StaticPages/add.ctp:27
+msgid "Add Static Page"
+msgstr ""
+
+#: Template/StaticPages/add.ctp:30
+#: Template/StaticPages/edit.ctp:31
+#: Template/StaticPages/view.ctp:31
+#: Template/UserContacts/send_reply.ctp:31
+#: Template/UserEmailSignatures/add.ctp:30
+#: Template/UserEmailSignatures/edit.ctp:31
+#: Template/UserEmailTemplates/add.ctp:30
+#: Template/UserEmailTemplates/edit.ctp:31
+#: Template/UserEmails/send.ctp:70
+#: Template/UserEmails/send_to_user.ctp:31
+#: Template/UserEmails/view.ctp:31
+#: Template/UserGroups/add.ctp:30
+#: Template/UserGroups/edit.ctp:31
+#: Template/UserSettings/edit_setting.ctp:31
+#: Template/Users/add_multiple_users.ctp:59
+#: Template/Users/add_user.ctp:37
+#: Template/Users/change_user_password.ctp:31
+#: Template/Users/edit_profile.ctp:30
+#: Template/Users/edit_user.ctp:38
+#: Template/Users/upload_csv.ctp:35
+#: Template/Users/view_user.ctp:31
+#: Template/Users/view_user_permissions.ctp:31
+msgid "Back"
+msgstr ""
+
+#: Template/StaticPages/add.ctp:40
+#: Template/StaticPages/edit.ctp:41
+msgid "For ex. Contact Us, About Us"
+msgstr ""
+
+#: Template/StaticPages/add.ctp:47
+#: Template/StaticPages/edit.ctp:48
+msgid "For ex. contactus, contactus.html, aboutus, aboutus.html"
+msgstr ""
+
+#: Template/StaticPages/add.ctp:54
+#: Template/StaticPages/edit.ctp:55
+msgid "For ex. Your Contact Details"
+msgstr ""
+
+#: Template/StaticPages/add.ctp:58
+#: Template/StaticPages/edit.ctp:59
+#: Template/StaticPages/view.ctp:57
+msgid "Page Content"
+msgstr ""
+
+#: Template/StaticPages/edit.ctp:27
+msgid "Edit Static Page"
+msgstr ""
+
+#: Template/StaticPages/edit.ctp:65
+msgid "Save Page"
+msgstr ""
+
+#: Template/StaticPages/index.ctp:27
+msgid "All Static Pages"
+msgstr ""
+
+#: Template/StaticPages/view.ctp:27
+msgid "Static Page Detail"
+msgstr ""
+
+#: Template/StaticPages/view.ctp:34
+#: Template/UserContacts/send_reply_confirm.ctp:38
+#: Template/UserEmails/send_confirm.ctp:57
+#: Template/UserEmails/send_to_user_confirm.ctp:38
+#: Template/Users/myprofile.ctp:30
+#: Template/Users/view_user.ctp:34
+msgid "Edit"
+msgstr ""
+
+#: Template/StaticPages/view.ctp:65
+msgid "Modified"
+msgstr ""
+
+#: Template/UserContacts/contact_us.ctp:27
+msgid "Contact Us"
+msgstr ""
+
+#: Template/UserContacts/index.ctp:27
+msgid "All Contact Enquiries"
+msgstr ""
+
+#: Template/UserContacts/send_reply.ctp:27
+msgid "Send Reply to"
+msgstr ""
+
+#: Template/UserContacts/send_reply.ctp:38
+#: Template/UserContacts/send_reply_confirm.ctp:46
+#: Template/UserEmails/send_to_user.ctp:38
+#: Template/UserEmails/send_to_user_confirm.ctp:46
+msgid "To"
+msgstr ""
+
+#: Template/UserContacts/send_reply.ctp:44
+#: Template/UserContacts/send_reply_confirm.ctp:50
+#: Template/UserEmails/send.ctp:114
+#: Template/UserEmails/send_to_user.ctp:44
+msgid "CC To"
+msgstr ""
+
+#: Template/UserContacts/send_reply.ctp:47
+#: Template/UserEmails/send.ctp:110;117
+#: Template/UserEmails/send_to_user.ctp:47
+msgid "multiple emails comma separated"
+msgstr ""
+
+#: Template/UserContacts/send_reply.ctp:63
+#: Template/UserEmails/send.ctp:139
+#: Template/UserEmails/send_to_user.ctp:69
+msgid "Select Template"
+msgstr ""
+
+#: Template/UserContacts/send_reply.ctp:69
+#: Template/UserEmails/send.ctp:145
+#: Template/UserEmails/send_to_user.ctp:75
+msgid "Select Signature"
+msgstr ""
+
+#: Template/UserContacts/send_reply.ctp:81
+#: Template/UserEmails/send.ctp:151
+#: Template/UserEmails/send_to_user.ctp:81
+msgid "Message"
+msgstr ""
+
+#: Template/UserContacts/send_reply_confirm.ctp:26
+msgid "Are you sure, you want to send this email?"
+msgstr ""
+
+#: Template/UserContacts/send_reply_confirm.ctp:35
+msgid "Confirm Sending Reply to"
+msgstr ""
+
+#: Template/UserContacts/send_reply_confirm.ctp:62
+#: Template/UserEmails/send_confirm.ctp:101
+#: Template/UserEmails/send_to_user_confirm.ctp:62
+#: Template/UserEmails/view.ctp:55
+msgid "Email Subject"
+msgstr ""
+
+#: Template/UserContacts/send_reply_confirm.ctp:66
+#: Template/UserEmails/send_confirm.ctp:105
+#: Template/UserEmails/send_to_user_confirm.ctp:66
+#: Template/UserEmails/view.ctp:56
+msgid "Email Message"
+msgstr ""
+
+#: Template/UserEmailSignatures/add.ctp:27;49
+#: Template/UserEmailSignatures/index.ctp:30
+msgid "Add Signature"
+msgstr ""
+
+#: Template/UserEmailSignatures/add.ctp:43
+#: Template/UserEmailSignatures/edit.ctp:44
+msgid "Email Signature"
+msgstr ""
+
+#: Template/UserEmailSignatures/edit.ctp:50
+msgid "Update Signature"
+msgstr ""
+
+#: Template/UserEmailSignatures/index.ctp:27
+msgid "All Email Signatures"
+msgstr ""
+
+#: Template/UserEmailTemplates/add.ctp:27;55
+#: Template/UserEmailTemplates/index.ctp:30
+msgid "Add Template"
+msgstr ""
+
+#: Template/UserEmailTemplates/add.ctp:43
+#: Template/UserEmailTemplates/edit.ctp:44
+msgid "Email Header"
+msgstr ""
+
+#: Template/UserEmailTemplates/add.ctp:49
+#: Template/UserEmailTemplates/edit.ctp:50
+msgid "Email Footer"
+msgstr ""
+
+#: Template/UserEmailTemplates/edit.ctp:56
+msgid "Update Template"
+msgstr ""
+
+#: Template/UserEmailTemplates/index.ctp:27
+msgid "All Email Templates"
+msgstr ""
+
+#: Template/UserEmails/index.ctp:27
+msgid "All Sent Emails"
+msgstr ""
+
+#: Template/UserEmails/send.ctp:95
+msgid "Select User(s)"
+msgstr ""
+
+#: Template/UserEmails/send.ctp:101
+msgid "Select Groups(s)"
+msgstr ""
+
+#: Template/UserEmails/send.ctp:107
+msgid "To Email(s)"
+msgstr ""
+
+#: Template/UserEmails/send_confirm.ctp:36
+msgid "Please select atleast one student to send email"
+msgstr ""
+
+#: Template/UserEmails/send_confirm.ctp:39
+msgid "Are you sure, you want to continue sending emails?"
+msgstr ""
+
+#: Template/UserEmails/send_confirm.ctp:54
+msgid "Confirm Sending Email"
+msgstr ""
+
+#: Template/UserEmails/send_confirm.ctp:65
+#: Template/UserEmails/view.ctp:38
+msgid "Email Type"
+msgstr ""
+
+#: Template/UserEmails/send_confirm.ctp:78
+#: Template/UserEmails/view.ctp:50
+#: Template/Users/myprofile.ctp:46
+#: Template/Users/view_user.ctp:51
+#: Template/Users/view_user_permissions.ctp:43
+msgid "Group(s)"
+msgstr ""
+
+#: Template/UserEmails/send_confirm.ctp:89
+#: Template/UserEmails/send_to_user_confirm.ctp:50
+#: Template/UserEmails/view.ctp:52
+msgid "CC Email(s)"
+msgstr ""
+
+#: Template/UserEmails/send_confirm.ctp:144
+msgid "No Users"
+msgstr ""
+
+#: Template/UserEmails/send_to_user.ctp:27
+msgid "Send Mail to"
+msgstr ""
+
+#: Template/UserEmails/send_to_user_confirm.ctp:35
+msgid "Confirm Sending Email to"
+msgstr ""
+
+#: Template/UserEmails/view.ctp:27
+msgid "Email Details"
+msgstr ""
+
+#: Template/UserEmails/view.ctp:76
+msgid "Email Recipients"
+msgstr ""
+
+#: Template/UserEmails/view.ctp:83
+msgid "Id"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:65
+msgid "Parent Group Permissions Matrix"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:76
+msgid "The group has permission of controller's action"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:76
+msgid "The group has not permission of controller's action"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:91;163
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:91;163
+#: Template/Users/view_user_permissions.ctp:40
+msgid "Plugin"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:92;164
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:92;164
+#: Template/Users/view_user_permissions.ctp:41
+msgid "Controller"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:132
+#: Template/Users/add_user.ctp:44
+#: Template/Users/edit_user.ctp:45
+#: Template/Users/register.ctp:40
+msgid "Group"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_group_matrix.ctp:154
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:154
+msgid "Get Permissions"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:65
+msgid "Sub Group Permissions Matrix"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:76
+msgid "The sub group has permission of controller's action"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:76
+msgid "The sub group has not permission of controller's action"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:76
+msgid "inherit"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:76
+msgid "Permission inherited from parent group"
+msgstr ""
+
+#: Template/UserGroupPermissions/permission_sub_group_matrix.ctp:132
+msgid "Sub Group"
+msgstr ""
+
+#: Template/UserGroups/add.ctp:37
+#: Template/UserGroups/edit.ctp:38
+msgid "Group Name"
+msgstr ""
+
+#: Template/UserGroups/add.ctp:40
+#: Template/UserGroups/edit.ctp:41
+msgid "for ex. Business User"
+msgstr ""
+
+#: Template/UserGroups/add.ctp:62
+#: Template/UserGroups/edit.ctp:63
+#: Template/UserSettings/cakelog.ctp:86
+msgid "Save"
+msgstr ""
+
+#: Template/UserGroups/add.ctp:66
+msgid "Note: If you add a new group then you should assign permissions to this newly created Group."
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:35
+msgid "Log File"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:36
+msgid "File Size"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:37
+msgid "Last Modified"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:59
+msgid "View/Edit"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:61
+msgid "Create Backup Copy"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:61
+msgid "Are you sure, you want to create a copy of "
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:63
+msgid "Delete"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:63
+msgid "Are you sure, you want to delete the log file "
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:65
+msgid "Empty File"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:65
+msgid "Are you sure, you want to make empty the log file "
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:65
+msgid "You should create a backup before making empty this file."
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:72
+msgid "I recommend you to take a backup of log files then make empty them weekly or monthly. It can improve site performance."
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:79
+msgid "Close"
+msgstr ""
+
+#: Template/UserSettings/cakelog.ctp:81
+msgid " details"
+msgstr ""
+
+#: Template/UserSettings/edit_setting.ctp:37
+msgid "Setting Category"
+msgstr ""
+
+#: Template/UserSettings/edit_setting.ctp:53
+msgid "Update Setting"
+msgstr ""
+
+#: Template/Users/access_denied.ctp:27
+msgid "Access Denied"
+msgstr ""
+
+#: Template/Users/access_denied.ctp:33
+msgid "Sorry, You don't have permission to view that page. go to"
+msgstr ""
+
+#: Template/Users/activate_password.ctp:27
+msgid "Reset Password"
+msgstr ""
+
+#: Template/Users/activate_password.ctp:33
+#: Template/Users/change_password.ctp:41
+#: Template/Users/change_user_password.ctp:38
+msgid "New Password"
+msgstr ""
+
+#: Template/Users/activate_password.ctp:36
+#: Template/Users/add_user.ctp:80
+#: Template/Users/change_password.ctp:47
+#: Template/Users/change_user_password.ctp:44
+#: Template/Users/register.ctp:77
+msgid "Confirm Password"
+msgstr ""
+
+#: Template/Users/activate_password.ctp:39
+msgid "Save New Password"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:65
+msgid "Please Note: Unchecked rows will not be saved in database."
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:70
+msgid "User Group"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:71
+#: Template/Users/add_user.ctp:56
+#: Template/Users/edit_profile.ctp:44
+#: Template/Users/edit_user.ctp:57
+#: Template/Users/register.ctp:53
+msgid "First Name"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:72
+#: Template/Users/add_user.ctp:62
+#: Template/Users/edit_profile.ctp:50
+#: Template/Users/edit_user.ctp:63
+#: Template/Users/register.ctp:59
+msgid "Last Name"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:75
+#: Template/Users/add_user.ctp:74
+#: Template/Users/login.ctp:42
+#: Template/Users/register.ctp:71
+msgid "Password"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:76
+#: Template/Users/edit_profile.ctp:62
+#: Template/Users/edit_user.ctp:75
+#: Template/Users/myprofile.ctp:58
+#: Template/Users/view_user.ctp:63
+msgid "Gender"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:77
+#: Template/Users/edit_profile.ctp:68
+#: Template/Users/edit_user.ctp:81
+#: Template/Users/myprofile.ctp:62
+#: Template/Users/view_user.ctp:67
+msgid "Birthday"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:78
+#: Template/Users/edit_profile.ctp:80
+#: Template/Users/edit_user.ctp:93
+#: Template/Users/myprofile.ctp:70
+#: Template/Users/view_user.ctp:75
+msgid "Location"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:79
+#: Template/Users/edit_profile.ctp:74
+#: Template/Users/edit_user.ctp:99
+#: Template/Users/myprofile.ctp:66
+#: Template/Users/view_user.ctp:71
+msgid "Cellphone"
+msgstr ""
+
+#: Template/Users/add_multiple_users.ctp:125
+msgid "Add Users"
+msgstr ""
+
+#: Template/Users/change_password.ctp:34
+msgid "Old Password"
+msgstr ""
+
+#: Template/Users/change_user_password.ctp:27
+msgid "Change Password for"
+msgstr ""
+
+#: Template/Users/dashboard.ctp:32
+msgid "Hello"
+msgstr ""
+
+#: Template/Users/dashboard.ctp:36
+msgid "Your last login time is "
+msgstr ""
+
+#: Template/Users/dashboard.ctp:41
+#: Template/Users/myprofile.ctp:27
+msgid "My Profile"
+msgstr ""
+
+#: Template/Users/dashboard.ctp:44
+#: Template/Users/edit_profile.ctp:27
+msgid "Edit Profile"
+msgstr ""
+
+#: Template/Users/dashboard.ctp:50
+msgid "Delete Account"
+msgstr ""
+
+#: Template/Users/dashboard.ctp:50
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+#: Template/Users/dashboard.ctp:90
+msgid "View Sent Mails"
+msgstr ""
+
+#: Template/Users/edit_profile.ctp:86
+#: Template/Users/edit_user.ctp:87
+msgid "Photo"
+msgstr ""
+
+#: Template/Users/edit_profile.ctp:92
+msgid "Update Profile"
+msgstr ""
+
+#: Template/Users/email_verification.ctp:27
+msgid "Email Verification"
+msgstr ""
+
+#: Template/Users/email_verification.ctp:33
+#: Template/Users/forgot_password.ctp:33
+msgid "Enter Email / Username"
+msgstr ""
+
+#: Template/Users/email_verification.ctp:49
+#: Template/Users/forgot_password.ctp:46
+#: Template/Users/login.ctp:64
+#: Template/Users/register.ctp:93
+msgid "Prove you're not a robot"
+msgstr ""
+
+#: Template/Users/forgot_password.ctp:27
+msgid "Forgot Password"
+msgstr ""
+
+#: Template/Users/login.ctp:27;71
+#: Template/Users/register.ctp:30
+msgid "Sign In"
+msgstr ""
+
+#: Template/Users/login.ctp:31
+#: Template/Users/register.ctp:27;100
+msgid "Sign Up"
+msgstr ""
+
+#: Template/Users/login.ctp:49
+msgid "Remember me"
+msgstr ""
+
+#: Template/Users/login.ctp:73
+msgid "Forgot Password?"
+msgstr ""
+
+#: Template/Users/myprofile.ctp:78
+#: Template/Users/view_user.ctp:91
+msgid "Joined"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:41
+msgid "Select csv file"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:46
+msgid "Upload"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:52
+msgid "Instructions for CSV file"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:55
+msgid "First line should be table fields name"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:56
+msgid "You can add one or more than one users"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:57
+msgid "leave blank for empty values"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:59
+msgid "For user group id field value should be in following"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:64
+msgid "For multiple groups set group ids comma separated without space for e.g. 1,2"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:66
+msgid "For gender field value should be in following"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:71
+msgid "For Birthday date format should be Ymd format for e.g. 1999-01-25"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:72
+msgid "Sample CSV File"
+msgstr ""
+
+#: Template/Users/upload_csv.ctp:72
+msgid "for multiple users"
+msgstr ""
+
+#: Template/Users/view_user.ctp:27
+msgid "User Detail"
+msgstr ""
+
+#: Template/Users/view_user.ctp:95
+msgid "Created By"
+msgstr ""
+
+#: Template/Users/view_user.ctp:99
+msgid "Last Login"
+msgstr ""
+
+#: Template/Users/view_user_permissions.ctp:27
+msgid "Site Permissions for"
+msgstr ""
+
+#: Template/Users/view_user_permissions.ctp:35
+msgid "Please make sure permissions are based on groups."
+msgstr ""
+

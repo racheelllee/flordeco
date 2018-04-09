@@ -1,0 +1,1 @@
+ALTER TABLE pedidos ADD COLUMN respuesta_pago_id VARCHAR(50) null;

@@ -1,0 +1,25 @@
+
+msgid "The cliente has been saved."
+msgstr "El cliente ha sido guardado"
+
+msgid "The cliente could not be saved. Please, try again."
+msgstr "El cliente no pudo ser guardad. Favor de intentar de nuevo"
+
+msgid "The cliente has been deleted."
+msgstr "El cliente ha sido eliminado."
+
+msgid "Idioma"
+msgstr "Idioma"
+
+
+msgid "The ciudad has been saved."
+msgstr "La Ciudad ha sido guardada."
+
+msgid "The ciudad could not be saved. Please, try again."
+msgstr "La Ciudad no pudo ser guardada. Por favor, intente nuevamente."
+
+msgid "The ciudad has been deleted."
+msgstr "La Ciudad ha sido borrada."
+
+msgid "The ciudad could not be deleted. Please, try again."
+msgstr "La Ciudad no pudo ser borrada. Por favor, intente nuevamente."

@@ -1,0 +1,1940 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+#msgid ""
+#msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-06-24 17:51+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ClientesController.php:68;101
+msgid "The cliente has been saved."
+msgstr ""
+
+#: Controller/ClientesController.php:71;104
+msgid "The cliente could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClientesController.php:130
+msgid "The cliente has been deleted."
+msgstr ""
+
+#: Controller/ClientesController.php:132
+msgid "The cliente could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClientesServiciosController.php:99;159
+msgid "The clientes servicio could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClientesServiciosController.php:111
+msgid "El servicio de renta ha sido agregado"
+msgstr ""
+
+#: Controller/ClientesServiciosController.php:156
+msgid "The clientes servicio has been saved."
+msgstr ""
+
+#: Controller/ClientesServiciosController.php:184
+msgid "The clientes servicio has been deleted."
+msgstr ""
+
+#: Controller/ClientesServiciosController.php:186
+msgid "The clientes servicio could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EstadosController.php:55;81
+msgid "The estado has been saved."
+msgstr ""
+
+#: Controller/EstadosController.php:58;84
+msgid "The estado could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EstadosController.php:104
+msgid "The estado has been deleted."
+msgstr ""
+
+#: Controller/EstadosController.php:106
+msgid "The estado could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FacturasController.php:54;83
+msgid "The factura has been saved."
+msgstr ""
+
+#: Controller/FacturasController.php:57;86
+msgid "The factura could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FacturasController.php:109
+msgid "The factura has been deleted."
+msgstr ""
+
+#: Controller/FacturasController.php:111
+msgid "The factura could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FormasdepagosController.php:52;77
+msgid "The formasdepago has been saved."
+msgstr ""
+
+#: Controller/FormasdepagosController.php:55;80
+msgid "The formasdepago could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FormasdepagosController.php:99
+msgid "The formasdepago has been deleted."
+msgstr ""
+
+#: Controller/FormasdepagosController.php:101
+msgid "The formasdepago could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/GruposController.php:52;77
+msgid "The grupo has been saved."
+msgstr ""
+
+#: Controller/GruposController.php:55;80
+msgid "The grupo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/GruposController.php:99
+msgid "The grupo has been deleted."
+msgstr ""
+
+#: Controller/GruposController.php:101
+msgid "The grupo could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MensajesController.php:55;81
+msgid "The mensaje has been saved."
+msgstr ""
+
+#: Controller/MensajesController.php:58;84
+msgid "The mensaje could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MensajesController.php:104
+msgid "The mensaje has been deleted."
+msgstr ""
+
+#: Controller/MensajesController.php:106
+msgid "The mensaje could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MonedasController.php:52;77
+msgid "The moneda has been saved."
+msgstr ""
+
+#: Controller/MonedasController.php:55;80
+msgid "The moneda could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MonedasController.php:99
+msgid "The moneda has been deleted."
+msgstr ""
+
+#: Controller/MonedasController.php:101
+msgid "The moneda could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MunicipiosController.php:72;98
+msgid "The municipio has been saved."
+msgstr ""
+
+#: Controller/MunicipiosController.php:75;101
+msgid "The municipio could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MunicipiosController.php:121
+msgid "The municipio has been deleted."
+msgstr ""
+
+#: Controller/MunicipiosController.php:123
+msgid "The municipio could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PaisesController.php:52;77
+msgid "The pais has been saved."
+msgstr ""
+
+#: Controller/PaisesController.php:55;80
+msgid "The pais could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PaisesController.php:99
+msgid "The pais has been deleted."
+msgstr ""
+
+#: Controller/PaisesController.php:101
+msgid "The pais could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ServiciosController.php:55;83
+msgid "The servicio has been saved."
+msgstr ""
+
+#: Controller/ServiciosController.php:58;86
+msgid "The servicio could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ServiciosController.php:108
+msgid "The servicio has been deleted."
+msgstr ""
+
+#: Controller/ServiciosController.php:110
+msgid "The servicio could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TiposController.php:52;77
+msgid "The tipo has been saved."
+msgstr ""
+
+#: Controller/TiposController.php:55;80
+msgid "The tipo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TiposController.php:99
+msgid "The tipo has been deleted."
+msgstr ""
+
+#: Controller/TiposController.php:101
+msgid "The tipo could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UnidadesController.php:52;77
+msgid "The unidad has been saved."
+msgstr ""
+
+#: Controller/UnidadesController.php:55;80
+msgid "The unidad could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UnidadesController.php:99
+msgid "The unidad has been deleted."
+msgstr ""
+
+#: Controller/UnidadesController.php:101
+msgid "The unidad could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsuariosController.php:55;81
+msgid "The usuario has been saved."
+msgstr ""
+
+#: Controller/UsuariosController.php:58;84
+msgid "The usuario could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsuariosController.php:104
+msgid "The usuario has been deleted."
+msgstr ""
+
+#: Controller/UsuariosController.php:106
+msgid "The usuario could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Clientes/add.ctp:6
+#: Template/Clientes/edit.ctp:13
+#: Template/Clientes/view.ctp:8
+#: Template/ClientesServicios/add.ctp:7
+#: Template/ClientesServicios/edit.ctp:14
+#: Template/ClientesServicios/index.ctp:7
+#: Template/ClientesServicios/view.ctp:10
+#: Template/Estados/index.ctp:9
+#: Template/Facturas/add.ctp:7
+#: Template/Facturas/edit.ctp:14
+#: Template/Facturas/index.ctp:7
+#: Template/Facturas/view.ctp:10
+#: Template/Monedas/add.ctp:7
+#: Template/Monedas/edit.ctp:14
+#: Template/Monedas/index.ctp:7
+#: Template/Monedas/view.ctp:10
+#: Template/Municipios/add.ctp:9
+#: Template/Municipios/edit.ctp:16
+#: Template/Municipios/index.ctp:9
+#: Template/Municipios/view.ctp:12
+#: Template/Servicios/add.ctp:11
+#: Template/Servicios/edit.ctp:18
+#: Template/Servicios/index.ctp:11
+#: Template/Servicios/view.ctp:14
+msgid "Listar Clientes"
+msgstr ""
+
+#: Template/Clientes/add.ctp:7
+#: Template/Clientes/edit.ctp:14
+#: Template/Clientes/index.ctp:7
+#: Template/Clientes/view.ctp:10
+#: Template/Estados/index.ctp:7
+msgid "Listar Paises"
+msgstr ""
+
+#: Template/Clientes/add.ctp:8
+#: Template/Clientes/edit.ctp:15
+#: Template/Clientes/index.ctp:8
+#: Template/Clientes/view.ctp:11
+#: Template/Estados/index.ctp:8
+msgid "Agregar Pais"
+msgstr ""
+
+#: Template/Clientes/add.ctp:9
+#: Template/Clientes/edit.ctp:16
+#: Template/Clientes/index.ctp:9
+#: Template/Clientes/view.ctp:12
+#: Template/Municipios/add.ctp:7
+#: Template/Municipios/edit.ctp:14
+#: Template/Municipios/index.ctp:7
+#: Template/Municipios/view.ctp:10
+msgid "Listar Estados"
+msgstr ""
+
+#: Template/Clientes/add.ctp:10
+#: Template/Clientes/edit.ctp:17
+#: Template/Clientes/index.ctp:10
+#: Template/Clientes/view.ctp:13
+#: Template/Estados/index.ctp:6
+#: Template/Municipios/add.ctp:8
+#: Template/Municipios/edit.ctp:15
+#: Template/Municipios/index.ctp:8
+#: Template/Municipios/view.ctp:11
+msgid "Agregar Estado"
+msgstr ""
+
+#: Template/Clientes/add.ctp:11
+#: Template/Clientes/edit.ctp:18
+#: Template/Clientes/index.ctp:11
+#: Template/Clientes/view.ctp:14
+#: Template/Estados/index.ctp:11
+#: Template/Municipios/add.ctp:6
+#: Template/Municipios/edit.ctp:13
+#: Template/Municipios/view.ctp:8
+msgid "Listar Municipios"
+msgstr ""
+
+#: Template/Clientes/add.ctp:12
+#: Template/Clientes/edit.ctp:19
+#: Template/Clientes/index.ctp:12
+#: Template/Clientes/view.ctp:15
+#: Template/Estados/index.ctp:12
+#: Template/Municipios/index.ctp:6
+msgid "Agregar Municipio"
+msgstr ""
+
+#: Template/Clientes/add.ctp:13
+#: Template/Clientes/edit.ctp:20
+#: Template/Clientes/index.ctp:13
+#: Template/Clientes/view.ctp:16
+#: Template/Facturas/add.ctp:11
+#: Template/Facturas/edit.ctp:18
+#: Template/Facturas/index.ctp:11
+#: Template/Facturas/view.ctp:14
+#: Template/Monedas/add.ctp:6
+#: Template/Monedas/edit.ctp:13
+#: Template/Monedas/view.ctp:8
+msgid "Listar Monedas"
+msgstr ""
+
+#: Template/Clientes/add.ctp:14
+#: Template/Clientes/edit.ctp:21
+#: Template/Clientes/index.ctp:14
+#: Template/Clientes/view.ctp:17
+#: Template/Facturas/add.ctp:12
+#: Template/Facturas/edit.ctp:19
+#: Template/Facturas/index.ctp:12
+#: Template/Facturas/view.ctp:15
+#: Template/Monedas/index.ctp:6
+msgid "Agregar Moneda"
+msgstr ""
+
+#: Template/Clientes/add.ctp:15
+#: Template/Clientes/edit.ctp:22
+#: Template/Clientes/index.ctp:15
+#: Template/Clientes/view.ctp:18
+#: Template/ClientesServicios/add.ctp:11
+#: Template/ClientesServicios/edit.ctp:18
+#: Template/ClientesServicios/index.ctp:11
+#: Template/ClientesServicios/view.ctp:14
+#: Template/Facturas/add.ctp:6
+#: Template/Facturas/edit.ctp:13
+#: Template/Facturas/view.ctp:8
+#: Template/Monedas/add.ctp:9
+#: Template/Monedas/edit.ctp:16
+#: Template/Monedas/index.ctp:9
+#: Template/Monedas/view.ctp:12
+msgid "Listar Facturas"
+msgstr ""
+
+#: Template/Clientes/add.ctp:16
+#: Template/Clientes/edit.ctp:23
+#: Template/Clientes/index.ctp:16
+#: Template/Clientes/view.ctp:19
+#: Template/ClientesServicios/add.ctp:12
+#: Template/ClientesServicios/edit.ctp:19
+#: Template/ClientesServicios/index.ctp:12
+#: Template/ClientesServicios/view.ctp:15
+#: Template/Facturas/index.ctp:6
+#: Template/Monedas/add.ctp:10
+#: Template/Monedas/edit.ctp:17
+#: Template/Monedas/index.ctp:10
+#: Template/Monedas/view.ctp:13
+msgid "Agregar Factura"
+msgstr ""
+
+#: Template/Clientes/add.ctp:17
+#: Template/Clientes/edit.ctp:24
+#: Template/Clientes/index.ctp:17
+#: Template/Clientes/view.ctp:20
+#: Template/ClientesServicios/add.ctp:9
+#: Template/ClientesServicios/edit.ctp:16
+#: Template/ClientesServicios/index.ctp:9
+#: Template/ClientesServicios/view.ctp:12
+#: Template/Servicios/add.ctp:6
+#: Template/Servicios/edit.ctp:13
+#: Template/Servicios/view.ctp:8
+#: Template/Tipos/add.ctp:9
+#: Template/Tipos/edit.ctp:16
+#: Template/Tipos/index.ctp:9
+#: Template/Tipos/view.ctp:12
+#: Template/Unidades/add.ctp:11
+#: Template/Unidades/edit.ctp:18
+#: Template/Unidades/index.ctp:11
+#: Template/Unidades/view.ctp:14
+msgid "Listar Servicios"
+msgstr ""
+
+#: Template/Clientes/add.ctp:18
+#: Template/Clientes/edit.ctp:25
+#: Template/Clientes/index.ctp:18
+#: Template/Clientes/view.ctp:21
+#: Template/ClientesServicios/add.ctp:10
+#: Template/ClientesServicios/edit.ctp:17
+#: Template/ClientesServicios/index.ctp:10
+#: Template/ClientesServicios/view.ctp:13
+#: Template/Servicios/index.ctp:6
+#: Template/Tipos/add.ctp:10
+#: Template/Tipos/edit.ctp:17
+#: Template/Tipos/index.ctp:10
+#: Template/Tipos/view.ctp:13
+#: Template/Unidades/add.ctp:12
+#: Template/Unidades/edit.ctp:19
+#: Template/Unidades/index.ctp:12
+#: Template/Unidades/view.ctp:15
+msgid "Agregar Servicio"
+msgstr ""
+
+#: Template/Clientes/add.ctp:25
+#: Template/Servicios/add.ctp:19
+msgid "Agregar {0}"
+msgstr ""
+
+#: Template/Clientes/add.ctp:131
+#: Template/Clientes/edit.ctp:141
+#: Template/ClientesServicios/edit.ctp:49
+#: Template/Estados/add.ctp:23
+#: Template/Estados/edit.ctp:30
+#: Template/Facturas/add.ctp:297
+#: Template/Facturas/edit.ctp:57
+#: Template/Formasdepagos/add.ctp:18
+#: Template/Formasdepagos/edit.ctp:25
+#: Template/Grupos/add.ctp:21
+#: Template/Grupos/edit.ctp:28
+#: Template/Mensajes/add.ctp:21
+#: Template/Mensajes/edit.ctp:28
+#: Template/Monedas/add.ctp:20
+#: Template/Monedas/edit.ctp:27
+#: Template/Municipios/add.ctp:21
+#: Template/Municipios/edit.ctp:28
+#: Template/Paises/add.ctp:20
+#: Template/Paises/edit.ctp:27
+#: Template/Tipos/add.ctp:20
+#: Template/Tipos/edit.ctp:27
+#: Template/Unidades/add.ctp:22
+#: Template/Unidades/edit.ctp:29
+#: Template/Usuarios/add.ctp:33
+#: Template/Usuarios/edit.ctp:40
+msgid "Submit"
+msgstr ""
+
+#: Template/Clientes/edit.ctp:8
+#: Template/ClientesServicios/edit.ctp:8
+#: Template/Facturas/edit.ctp:8
+#: Template/Grupos/edit.ctp:8
+#: Template/Mensajes/edit.ctp:8
+#: Template/Monedas/edit.ctp:8
+#: Template/Municipios/edit.ctp:8
+#: Template/Servicios/edit.ctp:8
+#: Template/Tipos/edit.ctp:8
+#: Template/Unidades/edit.ctp:8
+#: Template/Usuarios/edit.ctp:8
+msgid "Eliminar"
+msgstr ""
+
+#: Template/Clientes/edit.ctp:10
+#: Template/Clientes/view.ctp:7;233
+#: Template/ClientesServicios/edit.ctp:10
+#: Template/ClientesServicios/view.ctp:7
+#: Template/Estados/edit.ctp:10
+#: Template/Estados/view.ctp:7;99;133
+#: Template/Facturas/edit.ctp:10
+#: Template/Facturas/view.ctp:7;151;193
+#: Template/Formasdepagos/edit.ctp:10
+#: Template/Formasdepagos/index.ctp:27
+#: Template/Formasdepagos/view.ctp:7;94
+#: Template/Grupos/edit.ctp:10
+#: Template/Grupos/view.ctp:7;75;127
+#: Template/Mensajes/edit.ctp:10
+#: Template/Mensajes/view.ctp:7
+#: Template/Monedas/edit.ctp:10
+#: Template/Monedas/view.ctp:7;95;167
+#: Template/Municipios/edit.ctp:10
+#: Template/Municipios/view.ctp:7;94
+#: Template/Paises/edit.ctp:10
+#: Template/Paises/index.ctp:29
+#: Template/Paises/view.ctp:7;95;129
+#: Template/Servicios/edit.ctp:10
+#: Template/Servicios/view.ctp:7;110
+#: Template/Tipos/edit.ctp:10
+#: Template/Tipos/view.ctp:7;83;125
+#: Template/Unidades/edit.ctp:10
+#: Template/Unidades/view.ctp:7;88;130;172
+#: Template/Usuarios/edit.ctp:10
+#: Template/Usuarios/view.ctp:7;114;152;188
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Clientes/edit.ctp:32
+#: Template/Servicios/edit.ctp:26
+msgid "Editar {0}"
+msgstr ""
+
+#: Template/Clientes/index.ctp:6
+#: Template/ClientesServicios/add.ctp:8
+#: Template/ClientesServicios/edit.ctp:15
+#: Template/ClientesServicios/index.ctp:8
+#: Template/ClientesServicios/view.ctp:11
+#: Template/Estados/index.ctp:10
+#: Template/Facturas/add.ctp:8
+#: Template/Facturas/edit.ctp:15
+#: Template/Facturas/index.ctp:8
+#: Template/Facturas/view.ctp:11
+#: Template/Monedas/add.ctp:8
+#: Template/Monedas/edit.ctp:15
+#: Template/Monedas/index.ctp:8
+#: Template/Monedas/view.ctp:11
+#: Template/Municipios/add.ctp:10
+#: Template/Municipios/edit.ctp:17
+#: Template/Municipios/index.ctp:10
+#: Template/Municipios/view.ctp:13
+#: Template/Servicios/add.ctp:12
+#: Template/Servicios/edit.ctp:19
+#: Template/Servicios/index.ctp:12
+#: Template/Servicios/view.ctp:15
+msgid "Agregar Cliente"
+msgstr ""
+
+#: Template/Clientes/index.ctp:56
+#: Template/ClientesServicios/index.ctp:72
+#: Template/Estados/index.ctp:34
+#: Template/Facturas/index.ctp:95
+#: Template/Grupos/index.ctp:30
+#: Template/Mensajes/index.ctp:32
+#: Template/Monedas/index.ctp:28
+#: Template/Municipios/index.ctp:32
+#: Template/Servicios/index.ctp:58
+#: Template/Tipos/index.ctp:45
+#: Template/Unidades/index.ctp:44;53
+#: Template/Usuarios/index.ctp:44
+msgid "Editar"
+msgstr ""
+
+#: Template/Clientes/index.ctp:57
+#: Template/ClientesServicios/index.ctp:73
+#: Template/Estados/index.ctp:35
+#: Template/Facturas/index.ctp:96
+#: Template/Grupos/index.ctp:31
+#: Template/Mensajes/index.ctp:33
+#: Template/Monedas/index.ctp:29
+#: Template/Municipios/index.ctp:33
+#: Template/Servicios/index.ctp:59
+#: Template/Tipos/index.ctp:46
+#: Template/Unidades/index.ctp:45;54
+#: Template/Usuarios/index.ctp:45
+msgid "Seguro que quiere borrar # {0}?"
+msgstr ""
+
+#: Template/Clientes/index.ctp:57
+#: Template/Clientes/view.ctp:233
+#: Template/ClientesServicios/index.ctp:73
+#: Template/Estados/edit.ctp:8
+#: Template/Estados/index.ctp:35
+#: Template/Estados/view.ctp:99;133
+#: Template/Facturas/index.ctp:96
+#: Template/Facturas/view.ctp:151;193
+#: Template/Formasdepagos/edit.ctp:8
+#: Template/Formasdepagos/index.ctp:27
+#: Template/Formasdepagos/view.ctp:94
+#: Template/Grupos/index.ctp:31
+#: Template/Grupos/view.ctp:75;127
+#: Template/Mensajes/index.ctp:33
+#: Template/Monedas/index.ctp:29
+#: Template/Monedas/view.ctp:95;167
+#: Template/Municipios/index.ctp:33
+#: Template/Municipios/view.ctp:94
+#: Template/Paises/edit.ctp:8
+#: Template/Paises/index.ctp:29
+#: Template/Paises/view.ctp:95;129
+#: Template/Servicios/index.ctp:59
+#: Template/Servicios/view.ctp:110
+#: Template/Tipos/index.ctp:46
+#: Template/Tipos/view.ctp:83;125
+#: Template/Unidades/index.ctp:45;54
+#: Template/Unidades/view.ctp:88;130;172
+#: Template/Usuarios/index.ctp:45
+#: Template/Usuarios/view.ctp:114;152;188
+msgid "Delete"
+msgstr ""
+
+#: Template/Clientes/view.ctp:6
+msgid "Editar Cliente"
+msgstr ""
+
+#: Template/Clientes/view.ctp:7
+msgid "Eliminar Cliente"
+msgstr ""
+
+#: Template/Clientes/view.ctp:9
+msgid "Nuevo Cliente"
+msgstr ""
+
+#: Template/Clientes/view.ctp:31
+msgid "Nombre del Cliente"
+msgstr ""
+
+#: Template/Clientes/view.ctp:63
+msgid "Contacto Primario"
+msgstr ""
+
+#: Template/Clientes/view.ctp:67;82
+msgid "Correo Electrónico"
+msgstr ""
+
+#: Template/Clientes/view.ctp:71;86
+msgid "Teléfono"
+msgstr ""
+
+#: Template/Clientes/view.ctp:78
+msgid "Contacto Secundario"
+msgstr ""
+
+#: Template/Clientes/view.ctp:105
+msgid "Razón Social"
+msgstr ""
+
+#: Template/Clientes/view.ctp:109
+msgid "RFC"
+msgstr ""
+
+#: Template/Clientes/view.ctp:116
+msgid "Calle y Número"
+msgstr ""
+
+#: Template/Clientes/view.ctp:120
+#: Template/Estados/view.ctp:64
+#: Template/Monedas/view.ctp:60
+#: Template/Municipios/view.ctp:59
+#: Template/Paises/view.ctp:60
+#: Template/Servicios/view.ctp:73
+msgid "Colonia"
+msgstr ""
+
+#: Template/Clientes/view.ctp:124
+#: Template/Estados/view.ctp:120
+#: Template/Municipios/view.ctp:22
+msgid "Municipio"
+msgstr ""
+
+#: Template/Clientes/view.ctp:131
+#: Template/Estados/view.ctp:24
+#: Template/Municipios/view.ctp:20
+#: Template/Paises/view.ctp:116
+msgid "Estado"
+msgstr ""
+
+#: Template/Clientes/view.ctp:135
+msgid "Código Postal"
+msgstr ""
+
+#: Template/Clientes/view.ctp:144
+msgid "Estado de Cuenta"
+msgstr ""
+
+#: Template/Clientes/view.ctp:180
+#: Template/ClientesServicios/view.ctp:44
+#: Template/Estados/view.ctp:28;50;118
+#: Template/Facturas/view.ctp:44;114;170
+#: Template/Formasdepagos/view.ctp:22;41
+#: Template/Grupos/view.ctp:26;48;94
+#: Template/Mensajes/view.ctp:22
+#: Template/Monedas/view.ctp:24;46;114
+#: Template/Municipios/view.ctp:26;45
+#: Template/Paises/view.ctp:24;46;114
+#: Template/Servicios/view.ctp:30;59
+#: Template/Tipos/view.ctp:24;46;102
+#: Template/Unidades/view.ctp:26;51;107;149
+#: Template/Usuarios/view.ctp:44;77;133;171
+msgid "Id"
+msgstr ""
+
+#: Template/Clientes/view.ctp:181
+#: Template/Facturas/view.ctp:115
+#: Template/Formasdepagos/view.ctp:42
+#: Template/Monedas/view.ctp:115
+#: Template/Tipos/view.ctp:47
+#: Template/Unidades/view.ctp:52
+#: Template/Usuarios/view.ctp:78
+msgid "Cliente Id"
+msgstr ""
+
+#: Template/Clientes/view.ctp:182
+#: Template/Facturas/view.ctp:46
+#: Template/Formasdepagos/view.ctp:43
+#: Template/Monedas/view.ctp:116
+msgid "Folio"
+msgstr ""
+
+#: Template/Clientes/view.ctp:183
+#: Template/Facturas/view.ctp:30
+#: Template/Formasdepagos/view.ctp:44
+#: Template/Monedas/view.ctp:117
+msgid "Serie"
+msgstr ""
+
+#: Template/Clientes/view.ctp:184;265
+#: Template/ClientesServicios/view.ctp:56
+#: Template/Facturas/view.ctp:62;120
+#: Template/Formasdepagos/view.ctp:45
+#: Template/Mensajes/view.ctp:28
+#: Template/Monedas/view.ctp:118
+#: Template/Tipos/view.ctp:52
+#: Template/Unidades/view.ctp:57
+#: Template/Usuarios/view.ctp:83;137
+msgid "Fecha"
+msgstr ""
+
+#: Template/Clientes/view.ctp:185;270
+#: Template/Facturas/view.ctp:48
+#: Template/Formasdepagos/view.ctp:46
+#: Template/Monedas/view.ctp:119
+msgid "Subtotal"
+msgstr ""
+
+#: Template/Clientes/view.ctp:186
+#: Template/Facturas/view.ctp:50
+#: Template/Formasdepagos/view.ctp:47
+#: Template/Monedas/view.ctp:120
+msgid "Iva"
+msgstr ""
+
+#: Template/Clientes/view.ctp:187
+#: Template/Facturas/view.ctp:52
+#: Template/Formasdepagos/view.ctp:48
+#: Template/Monedas/view.ctp:121
+msgid "Total"
+msgstr ""
+
+#: Template/Clientes/view.ctp:188
+#: Template/Facturas/view.ctp:32
+#: Template/Formasdepagos/view.ctp:49
+#: Template/Monedas/view.ctp:122
+msgid "Cantidad Letra"
+msgstr ""
+
+#: Template/Clientes/view.ctp:189
+#: Template/Formasdepagos/view.ctp:50
+#: Template/Monedas/view.ctp:123
+msgid "Festado Id"
+msgstr ""
+
+#: Template/Clientes/view.ctp:190
+#: Template/Estados/view.ctp:69
+#: Template/Formasdepagos/view.ctp:51
+#: Template/Monedas/view.ctp:65;124
+#: Template/Municipios/view.ctp:64
+#: Template/Paises/view.ctp:65
+#: Template/Servicios/view.ctp:78
+msgid "Moneda Id"
+msgstr ""
+
+#: Template/Clientes/view.ctp:191
+#: Template/Facturas/view.ctp:74
+#: Template/Formasdepagos/view.ctp:52
+#: Template/Monedas/view.ctp:125
+msgid "Observaciones"
+msgstr ""
+
+#: Template/Clientes/view.ctp:192
+#: Template/Facturas/view.ctp:80
+#: Template/Formasdepagos/view.ctp:53
+#: Template/Monedas/view.ctp:126
+msgid "Cfdi"
+msgstr ""
+
+#: Template/Clientes/view.ctp:193
+#: Template/Facturas/view.ctp:86
+#: Template/Formasdepagos/view.ctp:54
+#: Template/Monedas/view.ctp:127
+msgid "Response"
+msgstr ""
+
+#: Template/Clientes/view.ctp:194
+#: Template/Facturas/view.ctp:92
+#: Template/Formasdepagos/view.ctp:55
+#: Template/Monedas/view.ctp:128
+msgid "Xml"
+msgstr ""
+
+#: Template/Clientes/view.ctp:195
+#: Template/Facturas/view.ctp:68
+#: Template/Formasdepagos/view.ctp:56
+#: Template/Monedas/view.ctp:129
+msgid "AddRetencion"
+msgstr ""
+
+#: Template/Clientes/view.ctp:196
+#: Template/Facturas/view.ctp:54
+#: Template/Formasdepagos/view.ctp:57
+#: Template/Monedas/view.ctp:130
+msgid "Retencion"
+msgstr ""
+
+#: Template/Clientes/view.ctp:197
+#: Template/Facturas/view.ctp:56
+#: Template/Formasdepagos/view.ctp:58
+#: Template/Monedas/view.ctp:131
+msgid "Cfdicancelado"
+msgstr ""
+
+#: Template/Clientes/view.ctp:198
+#: Template/Facturas/view.ctp:58
+#: Template/Formasdepagos/view.ctp:59
+#: Template/Monedas/view.ctp:132
+msgid "Tipo De Cambio"
+msgstr ""
+
+#: Template/Clientes/view.ctp:199
+#: Template/Facturas/view.ctp:64
+#: Template/Formasdepagos/view.ctp:60
+#: Template/Monedas/view.ctp:133
+msgid "Fecha Pago"
+msgstr ""
+
+#: Template/Clientes/view.ctp:200
+#: Template/Facturas/view.ctp:38
+#: Template/Formasdepagos/view.ctp:61
+#: Template/Monedas/view.ctp:134
+msgid "Referencia De Pago"
+msgstr ""
+
+#: Template/Clientes/view.ctp:201
+#: Template/Formasdepagos/view.ctp:62
+#: Template/Monedas/view.ctp:135
+msgid "Formasdepago Id"
+msgstr ""
+
+#: Template/Clientes/view.ctp:202;273
+#: Template/Estados/index.ctp:21
+#: Template/Estados/view.ctp:70;121
+#: Template/Facturas/view.ctp:128;177
+#: Template/Formasdepagos/index.ctp:16
+#: Template/Formasdepagos/view.ctp:63
+#: Template/Grupos/index.ctp:19
+#: Template/Grupos/view.ctp:57;106
+#: Template/Mensajes/index.ctp:18
+#: Template/Monedas/index.ctp:18
+#: Template/Monedas/view.ctp:66;136
+#: Template/Municipios/index.ctp:19
+#: Template/Municipios/view.ctp:65
+#: Template/Paises/index.ctp:18
+#: Template/Paises/view.ctp:66;117
+#: Template/Servicios/view.ctp:80
+#: Template/Tipos/index.ctp:32
+#: Template/Tipos/view.ctp:60;109
+#: Template/Unidades/index.ctp:34
+#: Template/Unidades/view.ctp:65;114;156
+#: Template/Usuarios/index.ctp:27
+#: Template/Usuarios/view.ctp:91;138;175
+msgid "Actions"
+msgstr ""
+
+#: Template/Clientes/view.ctp:231
+#: Template/Estados/view.ctp:97;131
+#: Template/Facturas/view.ctp:149;191
+#: Template/Formasdepagos/index.ctp:25
+#: Template/Formasdepagos/view.ctp:92
+#: Template/Grupos/view.ctp:73;125
+#: Template/Monedas/view.ctp:93;165
+#: Template/Municipios/view.ctp:92
+#: Template/Paises/index.ctp:27
+#: Template/Paises/view.ctp:93;127
+#: Template/Servicios/view.ctp:108
+#: Template/Tipos/view.ctp:81;123
+#: Template/Unidades/view.ctp:86;128;170
+#: Template/Usuarios/view.ctp:112;150;186
+msgid "View"
+msgstr ""
+
+#: Template/Clientes/view.ctp:232
+#: Template/Estados/view.ctp:98;132
+#: Template/Facturas/view.ctp:150;192
+#: Template/Formasdepagos/index.ctp:26
+#: Template/Formasdepagos/view.ctp:93
+#: Template/Grupos/view.ctp:74;126
+#: Template/Monedas/view.ctp:94;166
+#: Template/Municipios/view.ctp:93
+#: Template/Paises/index.ctp:28
+#: Template/Paises/view.ctp:94;128
+#: Template/Servicios/view.ctp:109
+#: Template/Tipos/view.ctp:82;124
+#: Template/Unidades/view.ctp:87;129;171
+#: Template/Usuarios/view.ctp:113;151;187
+msgid "Edit"
+msgstr ""
+
+#: Template/Clientes/view.ctp:240
+#: Template/Formasdepagos/view.ctp:101
+#: Template/Monedas/view.ctp:174
+msgid "No existen Facturas asociados"
+msgstr ""
+
+#: Template/Clientes/view.ctp:266
+msgid "Concepto de pago"
+msgstr ""
+
+#: Template/Clientes/view.ctp:267
+msgid "Precio MXN"
+msgstr ""
+
+#: Template/Clientes/view.ctp:268
+msgid "Precio USD"
+msgstr ""
+
+#: Template/Clientes/view.ctp:269
+#: Template/ClientesServicios/view.ctp:50
+#: Template/Facturas/view.ctp:126;172
+#: Template/Tipos/view.ctp:58
+#: Template/Unidades/view.ctp:63;109
+#: Template/Usuarios/view.ctp:89
+msgid "Cantidad"
+msgstr ""
+
+#: Template/Clientes/view.ctp:271
+#: Template/ClientesServicios/view.ctp:32
+msgid "Factura"
+msgstr ""
+
+#: Template/Clientes/view.ctp:293
+#: Template/Tipos/view.ctp:132
+#: Template/Unidades/view.ctp:179
+msgid "No existen Servicios asociados"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:6
+#: Template/ClientesServicios/edit.ctp:13
+#: Template/ClientesServicios/view.ctp:8
+#: Template/Facturas/add.ctp:15
+#: Template/Facturas/edit.ctp:22
+#: Template/Facturas/view.ctp:18
+#: Template/Tipos/add.ctp:7
+#: Template/Tipos/edit.ctp:14
+#: Template/Tipos/view.ctp:10
+#: Template/Unidades/add.ctp:7
+#: Template/Unidades/edit.ctp:14
+#: Template/Unidades/view.ctp:10
+#: Template/Usuarios/add.ctp:9
+#: Template/Usuarios/edit.ctp:16
+#: Template/Usuarios/view.ctp:12
+msgid "Listar Clientes Servicios"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:13
+#: Template/ClientesServicios/edit.ctp:20
+#: Template/ClientesServicios/index.ctp:13
+#: Template/ClientesServicios/view.ctp:16
+#: Template/Grupos/add.ctp:9
+#: Template/Grupos/edit.ctp:16
+#: Template/Grupos/index.ctp:9
+#: Template/Grupos/view.ctp:12
+#: Template/Mensajes/add.ctp:7
+#: Template/Mensajes/edit.ctp:14
+#: Template/Mensajes/index.ctp:7
+#: Template/Mensajes/view.ctp:10
+#: Template/Usuarios/add.ctp:6
+#: Template/Usuarios/edit.ctp:13
+#: Template/Usuarios/view.ctp:8
+msgid "Listar Usuarios"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:14
+#: Template/ClientesServicios/edit.ctp:21
+#: Template/ClientesServicios/index.ctp:14
+#: Template/ClientesServicios/view.ctp:17
+#: Template/Grupos/add.ctp:10
+#: Template/Grupos/edit.ctp:17
+#: Template/Grupos/index.ctp:10
+#: Template/Grupos/view.ctp:13
+#: Template/Mensajes/add.ctp:8
+#: Template/Mensajes/edit.ctp:15
+#: Template/Mensajes/index.ctp:8
+#: Template/Mensajes/view.ctp:11
+#: Template/Usuarios/index.ctp:6
+msgid "Agregar Usuario"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:15
+#: Template/ClientesServicios/edit.ctp:22
+#: Template/ClientesServicios/index.ctp:15
+#: Template/ClientesServicios/view.ctp:18
+#: Template/Servicios/add.ctp:7
+#: Template/Servicios/edit.ctp:14
+#: Template/Servicios/index.ctp:7
+#: Template/Servicios/view.ctp:10
+#: Template/Tipos/add.ctp:6
+#: Template/Tipos/edit.ctp:13
+#: Template/Tipos/view.ctp:8
+msgid "Listar Tipos"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:16
+#: Template/ClientesServicios/edit.ctp:23
+#: Template/ClientesServicios/index.ctp:16
+#: Template/ClientesServicios/view.ctp:19
+#: Template/Servicios/add.ctp:8
+#: Template/Servicios/edit.ctp:15
+#: Template/Servicios/index.ctp:8
+#: Template/Servicios/view.ctp:11
+#: Template/Tipos/index.ctp:6
+msgid "Agregar Tipo"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:17
+#: Template/ClientesServicios/edit.ctp:24
+#: Template/ClientesServicios/index.ctp:17
+#: Template/ClientesServicios/view.ctp:20
+#: Template/Servicios/add.ctp:9
+#: Template/Servicios/edit.ctp:16
+#: Template/Servicios/index.ctp:9
+#: Template/Servicios/view.ctp:12
+#: Template/Unidades/add.ctp:6
+#: Template/Unidades/edit.ctp:13
+#: Template/Unidades/view.ctp:8
+msgid "Listar Unidades"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:18
+#: Template/ClientesServicios/edit.ctp:25
+#: Template/ClientesServicios/index.ctp:18
+#: Template/ClientesServicios/view.ctp:21
+#: Template/Servicios/add.ctp:10
+#: Template/Servicios/edit.ctp:17
+#: Template/Servicios/index.ctp:10
+#: Template/Servicios/view.ctp:13
+#: Template/Unidades/index.ctp:6
+msgid "Agregar Unidad"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:25
+msgid "Registrar {0}"
+msgstr ""
+
+#: Template/ClientesServicios/add.ctp:104
+#: Template/Servicios/add.ctp:68
+#: Template/Servicios/edit.ctp:72
+msgid "Registrar"
+msgstr ""
+
+#: Template/ClientesServicios/edit.ctp:31
+#: Template/Estados/edit.ctp:24
+#: Template/Facturas/edit.ctp:31
+#: Template/Formasdepagos/edit.ctp:20
+#: Template/Grupos/edit.ctp:22
+#: Template/Mensajes/edit.ctp:20
+#: Template/Monedas/edit.ctp:22
+#: Template/Municipios/edit.ctp:22
+#: Template/Paises/edit.ctp:22
+#: Template/Tipos/edit.ctp:22
+#: Template/Unidades/edit.ctp:24
+#: Template/Usuarios/edit.ctp:26
+msgid "Edit {0}"
+msgstr ""
+
+#: Template/ClientesServicios/index.ctp:6
+#: Template/Facturas/add.ctp:16
+#: Template/Facturas/edit.ctp:23
+#: Template/Facturas/index.ctp:16
+#: Template/Facturas/view.ctp:19
+#: Template/Tipos/add.ctp:8
+#: Template/Tipos/edit.ctp:15
+#: Template/Tipos/index.ctp:8
+#: Template/Tipos/view.ctp:11
+#: Template/Unidades/add.ctp:8
+#: Template/Unidades/edit.ctp:15
+#: Template/Unidades/index.ctp:8
+#: Template/Unidades/view.ctp:11
+#: Template/Usuarios/add.ctp:10
+#: Template/Usuarios/edit.ctp:17
+#: Template/Usuarios/index.ctp:10
+#: Template/Usuarios/view.ctp:13
+msgid "Agregar Clientes Servicio"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:6
+msgid "Editar Clientes Servicio"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:7
+msgid "Eliminar Clientes Servicio"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:9
+msgid "Nuevo Clientes Servicio"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:28
+#: Template/Facturas/view.ctp:28
+msgid "Cliente"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:30
+msgid "Servicio"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:34
+#: Template/Mensajes/view.ctp:18
+msgid "Usuario"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:36
+#: Template/Servicios/view.ctp:22
+msgid "Tipo"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:38
+#: Template/Estados/view.ctp:51
+#: Template/Facturas/view.ctp:121
+#: Template/Formasdepagos/view.ctp:18
+#: Template/Grupos/view.ctp:20;50;96
+#: Template/Monedas/view.ctp:20;47
+#: Template/Municipios/view.ctp:46
+#: Template/Paises/view.ctp:20;47
+#: Template/Servicios/view.ctp:24;60
+#: Template/Tipos/view.ctp:20;53;104
+#: Template/Unidades/view.ctp:22;58;151
+#: Template/Usuarios/view.ctp:26;84
+msgid "Nombre"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:40
+#: Template/Servicios/view.ctp:26
+msgid "Unidad"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:46
+#: Template/Facturas/view.ctp:123
+#: Template/Servicios/view.ctp:32
+#: Template/Tipos/view.ctp:55;106
+#: Template/Unidades/view.ctp:60;153
+#: Template/Usuarios/view.ctp:86
+msgid "Precio Mxn"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:48
+#: Template/Facturas/view.ctp:124
+#: Template/Servicios/view.ctp:34
+#: Template/Tipos/view.ctp:56;107
+#: Template/Unidades/view.ctp:61;154
+#: Template/Usuarios/view.ctp:87
+msgid "Precio Usd"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:52
+#: Template/Facturas/view.ctp:127
+#: Template/Tipos/view.ctp:59
+#: Template/Unidades/view.ctp:64
+#: Template/Usuarios/view.ctp:90
+msgid "Notificacion"
+msgstr ""
+
+#: Template/ClientesServicios/view.ctp:62
+#: Template/Facturas/view.ctp:125
+#: Template/Servicios/view.ctp:40
+#: Template/Tipos/view.ctp:57;108
+#: Template/Unidades/view.ctp:62;155
+#: Template/Usuarios/view.ctp:88
+msgid "Descripcion"
+msgstr ""
+
+#: Template/Estados/add.ctp:6
+#: Template/Estados/edit.ctp:13
+#: Template/Estados/view.ctp:8
+#: Template/Paises/add.ctp:9
+#: Template/Paises/edit.ctp:16
+#: Template/Paises/index.ctp:9
+#: Template/Paises/view.ctp:12
+msgid "List Estados"
+msgstr ""
+
+#: Template/Estados/add.ctp:7
+#: Template/Estados/edit.ctp:14
+#: Template/Estados/view.ctp:10
+#: Template/Paises/add.ctp:6
+#: Template/Paises/edit.ctp:13
+#: Template/Paises/view.ctp:8
+msgid "List Paises"
+msgstr ""
+
+#: Template/Estados/add.ctp:8
+#: Template/Estados/edit.ctp:15
+#: Template/Estados/view.ctp:11
+#: Template/Paises/index.ctp:6
+#: Template/Paises/view.ctp:9
+msgid "New Pais"
+msgstr ""
+
+#: Template/Estados/add.ctp:9
+#: Template/Estados/edit.ctp:16
+#: Template/Estados/view.ctp:12
+#: Template/Paises/add.ctp:7
+#: Template/Paises/edit.ctp:14
+#: Template/Paises/index.ctp:7
+#: Template/Paises/view.ctp:10
+msgid "List Clientes"
+msgstr ""
+
+#: Template/Estados/add.ctp:10
+#: Template/Estados/edit.ctp:17
+#: Template/Estados/view.ctp:13
+#: Template/Paises/add.ctp:8
+#: Template/Paises/edit.ctp:15
+#: Template/Paises/index.ctp:8
+#: Template/Paises/view.ctp:11
+msgid "New Cliente"
+msgstr ""
+
+#: Template/Estados/add.ctp:11
+#: Template/Estados/edit.ctp:18
+#: Template/Estados/view.ctp:14
+msgid "List Municipios"
+msgstr ""
+
+#: Template/Estados/add.ctp:12
+#: Template/Estados/edit.ctp:19
+#: Template/Estados/view.ctp:15
+msgid "New Municipio"
+msgstr ""
+
+#: Template/Estados/add.ctp:17
+#: Template/Formasdepagos/add.ctp:13
+#: Template/Grupos/add.ctp:15
+#: Template/Mensajes/add.ctp:13
+#: Template/Monedas/add.ctp:15
+#: Template/Municipios/add.ctp:15
+#: Template/Paises/add.ctp:15
+#: Template/Tipos/add.ctp:15
+#: Template/Unidades/add.ctp:17
+#: Template/Usuarios/add.ctp:19
+msgid "Add {0}"
+msgstr ""
+
+#: Template/Estados/index.ctp:33
+#: Template/Grupos/index.ctp:29
+#: Template/Mensajes/index.ctp:31
+#: Template/Monedas/index.ctp:27
+#: Template/Municipios/index.ctp:31
+#: Template/Tipos/index.ctp:44
+#: Template/Unidades/index.ctp:43;52
+#: Template/Usuarios/index.ctp:43
+msgid "Ver"
+msgstr ""
+
+#: Template/Estados/index.ctp:44
+#: Template/Formasdepagos/index.ctp:36
+#: Template/Grupos/index.ctp:40
+#: Template/Mensajes/index.ctp:42
+#: Template/Monedas/index.ctp:38
+#: Template/Municipios/index.ctp:42
+#: Template/Paises/index.ctp:38
+#: Template/Unidades/index.ctp:65
+#: Template/Usuarios/index.ctp:54
+msgid "previous"
+msgstr ""
+
+#: Template/Estados/index.ctp:46
+#: Template/Formasdepagos/index.ctp:38
+#: Template/Grupos/index.ctp:42
+#: Template/Mensajes/index.ctp:44
+#: Template/Monedas/index.ctp:40
+#: Template/Municipios/index.ctp:44
+#: Template/Paises/index.ctp:40
+#: Template/Unidades/index.ctp:67
+#: Template/Usuarios/index.ctp:56
+msgid "next"
+msgstr ""
+
+#: Template/Estados/view.ctp:6
+msgid "Edit Estado"
+msgstr ""
+
+#: Template/Estados/view.ctp:7
+msgid "Delete Estado"
+msgstr ""
+
+#: Template/Estados/view.ctp:9
+#: Template/Paises/add.ctp:10
+#: Template/Paises/edit.ctp:17
+#: Template/Paises/index.ctp:10
+#: Template/Paises/view.ctp:13
+msgid "New Estado"
+msgstr ""
+
+#: Template/Estados/view.ctp:22
+msgid "Pais"
+msgstr ""
+
+#: Template/Estados/view.ctp:52
+#: Template/Monedas/view.ctp:48
+#: Template/Municipios/view.ctp:47
+#: Template/Paises/view.ctp:48
+#: Template/Servicios/view.ctp:61
+msgid "Primario Persona De Contacto"
+msgstr ""
+
+#: Template/Estados/view.ctp:53
+#: Template/Monedas/view.ctp:49
+#: Template/Municipios/view.ctp:48
+#: Template/Paises/view.ctp:49
+#: Template/Servicios/view.ctp:62
+msgid "Primario Correo Electronico"
+msgstr ""
+
+#: Template/Estados/view.ctp:54
+#: Template/Monedas/view.ctp:50
+#: Template/Municipios/view.ctp:49
+#: Template/Paises/view.ctp:50
+#: Template/Servicios/view.ctp:63
+msgid "Primario Telefono Oficina"
+msgstr ""
+
+#: Template/Estados/view.ctp:55
+#: Template/Monedas/view.ctp:51
+#: Template/Municipios/view.ctp:50
+#: Template/Paises/view.ctp:51
+#: Template/Servicios/view.ctp:64
+msgid "Primario Telefono Movil"
+msgstr ""
+
+#: Template/Estados/view.ctp:56
+#: Template/Monedas/view.ctp:52
+#: Template/Municipios/view.ctp:51
+#: Template/Paises/view.ctp:52
+#: Template/Servicios/view.ctp:65
+msgid "Secundario Persona De Contacto"
+msgstr ""
+
+#: Template/Estados/view.ctp:57
+#: Template/Monedas/view.ctp:53
+#: Template/Municipios/view.ctp:52
+#: Template/Paises/view.ctp:53
+#: Template/Servicios/view.ctp:66
+msgid "Secundario Correo Electronico"
+msgstr ""
+
+#: Template/Estados/view.ctp:58
+#: Template/Monedas/view.ctp:54
+#: Template/Municipios/view.ctp:53
+#: Template/Paises/view.ctp:54
+#: Template/Servicios/view.ctp:67
+msgid "Secundario Telefono Oficina"
+msgstr ""
+
+#: Template/Estados/view.ctp:59
+#: Template/Monedas/view.ctp:55
+#: Template/Municipios/view.ctp:54
+#: Template/Paises/view.ctp:55
+#: Template/Servicios/view.ctp:68
+msgid "Secundario Telefono Movil"
+msgstr ""
+
+#: Template/Estados/view.ctp:60
+#: Template/Monedas/view.ctp:56
+#: Template/Municipios/view.ctp:55
+#: Template/Paises/view.ctp:56
+#: Template/Servicios/view.ctp:69
+msgid "Razon Social"
+msgstr ""
+
+#: Template/Estados/view.ctp:61
+#: Template/Monedas/view.ctp:57
+#: Template/Municipios/view.ctp:56
+#: Template/Paises/view.ctp:57
+#: Template/Servicios/view.ctp:70
+msgid "Rfc"
+msgstr ""
+
+#: Template/Estados/view.ctp:62
+#: Template/Monedas/view.ctp:58
+#: Template/Municipios/view.ctp:57
+#: Template/Paises/view.ctp:58
+#: Template/Servicios/view.ctp:71
+msgid "Calle"
+msgstr ""
+
+#: Template/Estados/view.ctp:63
+#: Template/Monedas/view.ctp:59
+#: Template/Municipios/view.ctp:58
+#: Template/Paises/view.ctp:59
+#: Template/Servicios/view.ctp:72
+msgid "Numero"
+msgstr ""
+
+#: Template/Estados/view.ctp:65
+#: Template/Monedas/view.ctp:61
+#: Template/Municipios/view.ctp:60
+#: Template/Paises/view.ctp:61;115
+#: Template/Servicios/view.ctp:74
+msgid "Pais Id"
+msgstr ""
+
+#: Template/Estados/view.ctp:66;119
+#: Template/Monedas/view.ctp:62
+#: Template/Municipios/view.ctp:61
+#: Template/Paises/view.ctp:62
+#: Template/Servicios/view.ctp:75
+msgid "Estado Id"
+msgstr ""
+
+#: Template/Estados/view.ctp:67
+#: Template/Monedas/view.ctp:63
+#: Template/Municipios/view.ctp:62
+#: Template/Paises/view.ctp:63
+#: Template/Servicios/view.ctp:76
+msgid "Municipio Id"
+msgstr ""
+
+#: Template/Estados/view.ctp:68
+#: Template/Monedas/view.ctp:64
+#: Template/Municipios/view.ctp:63
+#: Template/Paises/view.ctp:64
+#: Template/Servicios/view.ctp:77
+msgid "Codigo Postal"
+msgstr ""
+
+#: Template/Estados/view.ctp:106
+#: Template/Monedas/view.ctp:102
+#: Template/Municipios/view.ctp:101
+#: Template/Paises/view.ctp:102
+#: Template/Servicios/view.ctp:117
+msgid "No existen Clientes asociados"
+msgstr ""
+
+#: Template/Estados/view.ctp:140
+msgid "No existen Municipios asociados"
+msgstr ""
+
+#: Template/Facturas/add.ctp:9
+#: Template/Facturas/edit.ctp:16
+#: Template/Facturas/index.ctp:9
+#: Template/Facturas/view.ctp:12
+msgid "Listar Festados"
+msgstr ""
+
+#: Template/Facturas/add.ctp:10
+#: Template/Facturas/edit.ctp:17
+#: Template/Facturas/index.ctp:10
+#: Template/Facturas/view.ctp:13
+msgid "Agregar Festado"
+msgstr ""
+
+#: Template/Facturas/add.ctp:13
+#: Template/Facturas/edit.ctp:20
+#: Template/Facturas/index.ctp:13
+#: Template/Facturas/view.ctp:16
+msgid "Listar Formasdepagos"
+msgstr ""
+
+#: Template/Facturas/add.ctp:14
+#: Template/Facturas/edit.ctp:21
+#: Template/Facturas/index.ctp:14
+#: Template/Facturas/view.ctp:17
+msgid "Agregar Formasdepago"
+msgstr ""
+
+#: Template/Facturas/add.ctp:17
+#: Template/Facturas/edit.ctp:24
+#: Template/Facturas/index.ctp:17
+#: Template/Facturas/view.ctp:20
+#: Template/Unidades/add.ctp:9
+#: Template/Unidades/edit.ctp:16
+#: Template/Unidades/index.ctp:9
+#: Template/Unidades/view.ctp:12
+msgid "Listar Partidas"
+msgstr ""
+
+#: Template/Facturas/add.ctp:18
+#: Template/Facturas/edit.ctp:25
+#: Template/Facturas/index.ctp:18
+#: Template/Facturas/view.ctp:21
+#: Template/Unidades/add.ctp:10
+#: Template/Unidades/edit.ctp:17
+#: Template/Unidades/index.ctp:10
+#: Template/Unidades/view.ctp:13
+msgid "Agregar Partida"
+msgstr ""
+
+#: Template/Facturas/index.ctp:15
+#: Template/Tipos/index.ctp:7
+#: Template/Unidades/index.ctp:7
+#: Template/Usuarios/index.ctp:9
+msgid "Listar ClientesServicios"
+msgstr ""
+
+#: Template/Facturas/view.ctp:6
+msgid "Editar Factura"
+msgstr ""
+
+#: Template/Facturas/view.ctp:7
+msgid "Eliminar Factura"
+msgstr ""
+
+#: Template/Facturas/view.ctp:9
+msgid "Nuevo Factura"
+msgstr ""
+
+#: Template/Facturas/view.ctp:34
+msgid "Festado"
+msgstr ""
+
+#: Template/Facturas/view.ctp:36
+msgid "Moneda"
+msgstr ""
+
+#: Template/Facturas/view.ctp:40
+msgid "Formasdepago"
+msgstr ""
+
+#: Template/Facturas/view.ctp:69
+#: Template/Usuarios/view.ctp:53
+msgid "Yes"
+msgstr ""
+
+#: Template/Facturas/view.ctp:69
+#: Template/Usuarios/view.ctp:53
+msgid "No"
+msgstr ""
+
+#: Template/Facturas/view.ctp:116
+#: Template/Tipos/view.ctp:48
+#: Template/Unidades/view.ctp:53
+#: Template/Usuarios/view.ctp:79
+msgid "Servicio Id"
+msgstr ""
+
+#: Template/Facturas/view.ctp:117;171
+#: Template/Tipos/view.ctp:49
+#: Template/Unidades/view.ctp:54;108
+#: Template/Usuarios/view.ctp:80
+msgid "Factura Id"
+msgstr ""
+
+#: Template/Facturas/view.ctp:118
+#: Template/Tipos/view.ctp:50
+#: Template/Unidades/view.ctp:55
+#: Template/Usuarios/view.ctp:81;134;172
+msgid "Usuario Id"
+msgstr ""
+
+#: Template/Facturas/view.ctp:119
+#: Template/Tipos/view.ctp:51;103
+#: Template/Unidades/view.ctp:56;150
+#: Template/Usuarios/view.ctp:82
+msgid "Tipo Id"
+msgstr ""
+
+#: Template/Facturas/view.ctp:122;173
+#: Template/Tipos/view.ctp:54;105
+#: Template/Unidades/view.ctp:59;110;152
+#: Template/Usuarios/view.ctp:85
+msgid "Unidad Id"
+msgstr ""
+
+#: Template/Facturas/view.ctp:158
+#: Template/Tipos/view.ctp:90
+#: Template/Unidades/view.ctp:95
+#: Template/Usuarios/view.ctp:121
+msgid "No existen ClientesServicios asociados"
+msgstr ""
+
+#: Template/Facturas/view.ctp:174
+#: Template/Unidades/view.ctp:111
+msgid "Concepto"
+msgstr ""
+
+#: Template/Facturas/view.ctp:175
+#: Template/Unidades/view.ctp:112
+msgid "Precio"
+msgstr ""
+
+#: Template/Facturas/view.ctp:176
+#: Template/Unidades/view.ctp:113
+msgid "Nota"
+msgstr ""
+
+#: Template/Facturas/view.ctp:200
+#: Template/Unidades/view.ctp:137
+msgid "No existen Partidas asociados"
+msgstr ""
+
+#: Template/Formasdepagos/add.ctp:6
+#: Template/Formasdepagos/edit.ctp:13
+#: Template/Formasdepagos/view.ctp:8
+msgid "List Formasdepagos"
+msgstr ""
+
+#: Template/Formasdepagos/add.ctp:7
+#: Template/Formasdepagos/edit.ctp:14
+#: Template/Formasdepagos/index.ctp:7
+#: Template/Formasdepagos/view.ctp:10
+msgid "List Facturas"
+msgstr ""
+
+#: Template/Formasdepagos/add.ctp:8
+#: Template/Formasdepagos/edit.ctp:15
+#: Template/Formasdepagos/index.ctp:8
+#: Template/Formasdepagos/view.ctp:11
+msgid "New Factura"
+msgstr ""
+
+#: Template/Formasdepagos/index.ctp:6
+#: Template/Formasdepagos/view.ctp:9
+msgid "New Formasdepago"
+msgstr ""
+
+#: Template/Formasdepagos/view.ctp:6
+msgid "Edit Formasdepago"
+msgstr ""
+
+#: Template/Formasdepagos/view.ctp:7
+msgid "Delete Formasdepago"
+msgstr ""
+
+#: Template/Grupos/add.ctp:6
+#: Template/Grupos/edit.ctp:13
+#: Template/Grupos/view.ctp:8
+#: Template/Usuarios/add.ctp:7
+#: Template/Usuarios/edit.ctp:14
+#: Template/Usuarios/index.ctp:7
+#: Template/Usuarios/view.ctp:10
+msgid "Listar Grupos"
+msgstr ""
+
+#: Template/Grupos/add.ctp:7
+#: Template/Grupos/edit.ctp:14
+#: Template/Grupos/index.ctp:7
+#: Template/Grupos/view.ctp:10
+msgid "Listar Permisos"
+msgstr ""
+
+#: Template/Grupos/add.ctp:8
+#: Template/Grupos/edit.ctp:15
+#: Template/Grupos/index.ctp:8
+#: Template/Grupos/view.ctp:11
+msgid "Agregar Permiso"
+msgstr ""
+
+#: Template/Grupos/index.ctp:6
+#: Template/Usuarios/add.ctp:8
+#: Template/Usuarios/edit.ctp:15
+#: Template/Usuarios/index.ctp:8
+#: Template/Usuarios/view.ctp:11
+msgid "Agregar Grupo"
+msgstr ""
+
+#: Template/Grupos/view.ctp:6
+msgid "Editar Grupo"
+msgstr ""
+
+#: Template/Grupos/view.ctp:7
+msgid "Eliminar Grupo"
+msgstr ""
+
+#: Template/Grupos/view.ctp:9
+msgid "Nuevo Grupo"
+msgstr ""
+
+#: Template/Grupos/view.ctp:22
+msgid "Url"
+msgstr ""
+
+#: Template/Grupos/view.ctp:49;100
+msgid "Grupo Id"
+msgstr ""
+
+#: Template/Grupos/view.ctp:51
+msgid "Orden"
+msgstr ""
+
+#: Template/Grupos/view.ctp:52
+msgid "Accion"
+msgstr ""
+
+#: Template/Grupos/view.ctp:53
+msgid "Permitir"
+msgstr ""
+
+#: Template/Grupos/view.ctp:54
+msgid "Padre"
+msgstr ""
+
+#: Template/Grupos/view.ctp:55
+msgid "Mostrar"
+msgstr ""
+
+#: Template/Grupos/view.ctp:56
+msgid "Icono"
+msgstr ""
+
+#: Template/Grupos/view.ctp:82
+msgid "No existen Permisos asociados"
+msgstr ""
+
+#: Template/Grupos/view.ctp:95
+#: Template/Usuarios/view.ctp:24
+msgid "Uid"
+msgstr ""
+
+#: Template/Grupos/view.ctp:97
+#: Template/Usuarios/view.ctp:28
+msgid "Telefono"
+msgstr ""
+
+#: Template/Grupos/view.ctp:98
+#: Template/Usuarios/view.ctp:30
+msgid "Correo"
+msgstr ""
+
+#: Template/Grupos/view.ctp:99
+#: Template/Usuarios/view.ctp:32
+msgid "Password"
+msgstr ""
+
+#: Template/Grupos/view.ctp:101
+#: Template/Servicios/view.ctp:79
+#: Template/Usuarios/view.ctp:52
+msgid "Activo"
+msgstr ""
+
+#: Template/Grupos/view.ctp:102
+#: Template/Usuarios/view.ctp:36
+msgid "Foto"
+msgstr ""
+
+#: Template/Grupos/view.ctp:103
+#: Template/Usuarios/view.ctp:38
+msgid "Randfoto"
+msgstr ""
+
+#: Template/Grupos/view.ctp:104
+#: Template/Usuarios/view.ctp:40
+msgid "Filepath"
+msgstr ""
+
+#: Template/Grupos/view.ctp:105
+#: Template/Usuarios/view.ctp:48;174
+msgid "Created"
+msgstr ""
+
+#: Template/Grupos/view.ctp:134
+msgid "No existen Usuarios asociados"
+msgstr ""
+
+#: Template/Layout/default.ctp:128
+msgid "My Profile"
+msgstr ""
+
+#: Template/Layout/default.ctp:131
+msgid "Edit Profile"
+msgstr ""
+
+#: Template/Layout/default.ctp:134
+msgid "Change Password"
+msgstr ""
+
+#: Template/Layout/default.ctp:137
+msgid "Delete Account"
+msgstr ""
+
+#: Template/Layout/default.ctp:137
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+#: Template/Mensajes/add.ctp:6
+#: Template/Mensajes/edit.ctp:13
+#: Template/Mensajes/view.ctp:8
+#: Template/Usuarios/add.ctp:11
+#: Template/Usuarios/edit.ctp:18
+#: Template/Usuarios/index.ctp:11
+#: Template/Usuarios/view.ctp:14
+msgid "Listar Mensajes"
+msgstr ""
+
+#: Template/Mensajes/index.ctp:6
+#: Template/Usuarios/add.ctp:12
+#: Template/Usuarios/edit.ctp:19
+#: Template/Usuarios/index.ctp:12
+#: Template/Usuarios/view.ctp:15
+msgid "Agregar Mensaje"
+msgstr ""
+
+#: Template/Mensajes/view.ctp:6
+msgid "Editar Mensaje"
+msgstr ""
+
+#: Template/Mensajes/view.ctp:7
+msgid "Eliminar Mensaje"
+msgstr ""
+
+#: Template/Mensajes/view.ctp:9
+msgid "Nuevo Mensaje"
+msgstr ""
+
+#: Template/Mensajes/view.ctp:24
+#: Template/Usuarios/view.ctp:136
+msgid "Envia"
+msgstr ""
+
+#: Template/Mensajes/view.ctp:34
+#: Template/Usuarios/view.ctp:135
+msgid "Mensaje"
+msgstr ""
+
+#: Template/Monedas/view.ctp:6
+msgid "Editar Moneda"
+msgstr ""
+
+#: Template/Monedas/view.ctp:7
+msgid "Eliminar Moneda"
+msgstr ""
+
+#: Template/Monedas/view.ctp:9
+msgid "Nuevo Moneda"
+msgstr ""
+
+#: Template/Municipios/view.ctp:6
+msgid "Editar Municipio"
+msgstr ""
+
+#: Template/Municipios/view.ctp:7
+msgid "Eliminar Municipio"
+msgstr ""
+
+#: Template/Municipios/view.ctp:9
+msgid "Nuevo Municipio"
+msgstr ""
+
+#: Template/Paises/view.ctp:6
+msgid "Edit Pais"
+msgstr ""
+
+#: Template/Paises/view.ctp:7
+msgid "Delete Pais"
+msgstr ""
+
+#: Template/Paises/view.ctp:136
+msgid "No existen Estados asociados"
+msgstr ""
+
+#: Template/Servicios/view.ctp:6
+msgid "Editar Servicio"
+msgstr ""
+
+#: Template/Servicios/view.ctp:7
+msgid "Eliminar Servicio"
+msgstr ""
+
+#: Template/Servicios/view.ctp:9
+msgid "Nuevo Servicio"
+msgstr ""
+
+#: Template/Tipos/view.ctp:6
+msgid "Editar Tipo"
+msgstr ""
+
+#: Template/Tipos/view.ctp:7
+msgid "Eliminar Tipo"
+msgstr ""
+
+#: Template/Tipos/view.ctp:9
+msgid "Nuevo Tipo"
+msgstr ""
+
+#: Template/Unidades/view.ctp:6
+msgid "Editar Unidad"
+msgstr ""
+
+#: Template/Unidades/view.ctp:7
+msgid "Eliminar Unidad"
+msgstr ""
+
+#: Template/Unidades/view.ctp:9
+msgid "Nuevo Unidad"
+msgstr ""
+
+#: Template/Usuarios/add.ctp:13
+#: Template/Usuarios/edit.ctp:20
+#: Template/Usuarios/index.ctp:13
+#: Template/Usuarios/view.ctp:16
+msgid "Listar Recuperaciones"
+msgstr ""
+
+#: Template/Usuarios/add.ctp:14
+#: Template/Usuarios/edit.ctp:21
+#: Template/Usuarios/index.ctp:14
+#: Template/Usuarios/view.ctp:17
+msgid "Agregar Recuperacion"
+msgstr ""
+
+#: Template/Usuarios/view.ctp:6
+msgid "Editar Usuario"
+msgstr ""
+
+#: Template/Usuarios/view.ctp:7
+msgid "Eliminar Usuario"
+msgstr ""
+
+#: Template/Usuarios/view.ctp:9
+msgid "Nuevo Usuario"
+msgstr ""
+
+#: Template/Usuarios/view.ctp:34
+msgid "Grupo"
+msgstr ""
+
+#: Template/Usuarios/view.ctp:159
+msgid "No existen Mensajes asociados"
+msgstr ""
+
+#: Template/Usuarios/view.ctp:173
+msgid "Code"
+msgstr ""
+
+#: Template/Usuarios/view.ctp:195
+msgid "No existen Recuperaciones asociados"
+msgstr ""
+

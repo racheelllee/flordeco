@@ -1,0 +1,1 @@
+alter table `productos` add `destacado` int(11) not null default 0;

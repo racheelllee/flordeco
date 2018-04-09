@@ -1,0 +1,62 @@
+msgid "The cliente has been saved."
+msgstr "The cliente has been saved."
+
+msgid "Idioma"
+msgstr "Language"
+
+msgid "Moneda"
+msgstr "Currency"
+
+msgid "Hola"
+msgstr "Hello"
+
+msgid "Mi cuenta"
+msgstr "My account"
+
+msgid "Mi Perfil"
+msgstr "My Profile"
+
+msgid "Salir"
+msgstr "Logout"
+
+msgid "Hola"
+msgstr "Hello"
+
+msgid "Identifícate"
+msgstr "Login"
+
+msgid "Contáctanos"
+msgstr "Contact us"
+
+msgid "Cerrar"
+msgstr "Close"
+
+msgid "Llámanos"
+msgstr "Call us"
+
+msgid "Enviar Mensaje"
+msgstr "Send message"
+
+msgid "Inicia aquí tu compra"
+msgstr "Start your purchase here"
+
+msgid "Estado"
+msgstr "State"
+
+msgid "Ciudad"
+msgstr "City"
+
+msgid "Piscinas y Químicos"
+msgstr "Pools and Chemicals"
+
+msgid "Tratamiento de Agua"
+msgstr "Water treatment"
+
+msgid "Sistemas de Bombeo"
+msgstr "Pumping systems"
+
+msgid "Agua Caliente"
+msgstr "Hot water"
+
+msgid "Jardinería y Riego"
+msgstr "Gardening and Irrigation"
